@@ -1,0 +1,54 @@
+{
+  "name": "sdk_doc_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build.cjs",
+    "start": "node dist/index.cjs",
+    "bot": "node build.cjs; node dist/index.cjs",
+    "encode": "node build.cjs; node dist/encoder.cjs",
+    "inspect": "node --inspect dist/index.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/node": "^22.4.1",
+    "@typescript-eslint/eslint-plugin": "^8.2.0",
+    "@typescript-eslint/parser": "^8.2.0",
+    "esbuild": "^0.23.1",
+    "esbuild-node-tsc": "^2.0.5",
+    "eslint": "^9.9.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "node-network-devtools": "^1.0.23",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.2.0"
+  },
+  "dependencies": {
+    "@langchain/core": "0.3.23",
+    "@langchain/mistralai": "^0.2.0",
+    "@langchain/ollama": "^0.1.3",
+    "@langchain/openai": "^0.3.14",
+    "@langchain/textsplitters": "^0.1.0",
+    "@langchain/weaviate": "^0.1.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.2",
+    "pnpm": "^9.15.0",
+    "rainbow-node-sdk": "2.25.2-lts.10",
+    "ts-node": "^10.9.2",
+    "weaviate-ts-client": "^2.2.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "@langchain/core": "0.3.23"
+    }
+  }
+}
+
