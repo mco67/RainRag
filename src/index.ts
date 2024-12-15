@@ -6,8 +6,6 @@ import { HistoryContext } from "./historyContext.js";
 import { StringOutputParser } from "@langchain/core/output_parsers";
 import { splitMarkdown } from './tools.js'
 
-//import { register } from 'node-network-devtools'
-//register({port: 5270});
 
 export class SDKBot {
 

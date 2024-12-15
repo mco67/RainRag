@@ -9,7 +9,7 @@ import { WeaviateService } from "./weaviate.js";
 import { HistoryContext } from "./historyContext.js";
 import { AIMessage } from "@langchain/core/messages";
 import { VectorStoreRetriever } from "@langchain/core/vectorstores";
-
+import { MISTRAL_API_KEY, INHOUSE_API_KEY }  from "./secret.js";  
 // Activer le mode débogage
 export class LLMService {
 
@@ -20,8 +20,6 @@ export class LLMService {
     private questionAnswerPrompt: ChatPromptTemplate;
     private currentModelName: string;
     private llm: any;
-    private MISTRAL_API_KEY = 'EBTBmkHrJg5Ym0B9kINvYHNj1VpPOvkd';
-    private INHOUSE_API_KEY = 'sk-c53df5dbc46a4a4dbef4124946ec78fe';
 
     private createMistralLLM(): any {
         try {
@@ -29,7 +27,7 @@ export class LLMService {
             return new ChatMistralAI({
                 model: this.currentModelName,
                 temperature: 0,
-                apiKey: this.MISTRAL_API_KEY
+                apiKey: MISTRAL_API_KEY
             });
         }
         catch (error) {
@@ -44,7 +42,7 @@ export class LLMService {
 
             return new ChatOpenAI({
                 model: this.currentModelName,
-                apiKey: this.INHOUSE_API_KEY,
+                apiKey: INHOUSE_API_KEY,
                 temperature: 0,
                 maxRetries: 2,
                 verbose: false,
@@ -52,7 +50,7 @@ export class LLMService {
                     baseURL: "https://dev-llm.openrainbow.io/ollama/v1",
                     defaultHeaders: { 
                         'Content-Type': 'application/json', 
-                        'Authorization': `Bearer ${this.INHOUSE_API_KEY}` 
+                        'Authorization': `Bearer ${INHOUSE_API_KEY}` 
                     }
                 }
             });

@@ -5,12 +5,8 @@ import { MistralAIEmbeddings } from '@langchain/mistralai';
 import { Embeddings } from '@langchain/core/embeddings';
 import { Document } from '@langchain/core/documents';
 import { VectorStoreRetriever } from '@langchain/core/vectorstores';
-
+import { MISTRAL_API_KEY, WEAVIATE_END_POINT, WEAVIATE_API_KEY } from 'secret.js';
 export class WeaviateService {
-
-    private MISTRAL_API_KEY = 'EBTBmkHrJg5Ym0B9kINvYHNj1VpPOvkd';
-    private WEAVIATE_END_POINT = '7gcqwfxsqrilsgxh9k0ojw.c0.europe-west3.gcp.weaviate.cloud';
-    private WEAVIATE_API_KEY = 'DtSG4D4iOSErBHflQwE84TqylxqWAPUFMesi';
 
     private client: any;
     private embeddings: Embeddings;
@@ -23,12 +19,12 @@ export class WeaviateService {
         // Create weaviate client connection
         this.client = (weaviate as any).client({
             scheme: 'https',
-            host: this.WEAVIATE_END_POINT,
-            apiKey: new ApiKey(this.WEAVIATE_API_KEY)
+            host: WEAVIATE_END_POINT,
+            apiKey: new ApiKey(WEAVIATE_API_KEY)
         });
 
         // Create embeddings
-        this.embeddings = new MistralAIEmbeddings({ apiKey: this.MISTRAL_API_KEY });
+        this.embeddings = new MistralAIEmbeddings({ apiKey: MISTRAL_API_KEY });
         console.info("== WeaviateService -- started");
     }
 
