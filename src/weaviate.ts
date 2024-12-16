@@ -5,7 +5,7 @@ import { MistralAIEmbeddings } from '@langchain/mistralai';
 import { Embeddings } from '@langchain/core/embeddings';
 import { Document } from '@langchain/core/documents';
 import { VectorStoreRetriever } from '@langchain/core/vectorstores';
-import { MISTRAL_API_KEY, WEAVIATE_END_POINT, WEAVIATE_API_KEY } from 'secret.js';
+import { MISTRAL_API_KEY, WEAVIATE_END_POINT, WEAVIATE_API_KEY } from './secret.js';
 export class WeaviateService {
 
     private client: any;

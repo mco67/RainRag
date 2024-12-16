@@ -12582,19 +12582,19 @@ var require_form_data = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/version.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/version.js
 var require_version = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/version.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/version.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
     });
     exports2.versionInfo = exports2.version = void 0;
-    var version = "16.9.0";
+    var version = "16.10.0";
     exports2.version = version;
     var versionInfo = Object.freeze({
       major: 16,
-      minor: 9,
+      minor: 10,
       patch: 0,
       preReleaseTag: null
     });
@@ -12602,9 +12602,9 @@ var require_version = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/devAssert.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/devAssert.js
 var require_devAssert = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/devAssert.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/devAssert.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12619,9 +12619,9 @@ var require_devAssert = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isPromise.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isPromise.js
 var require_isPromise = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isPromise.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isPromise.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12633,9 +12633,9 @@ var require_isPromise = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isObjectLike.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isObjectLike.js
 var require_isObjectLike = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isObjectLike.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isObjectLike.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12647,9 +12647,9 @@ var require_isObjectLike = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/invariant.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/invariant.js
 var require_invariant = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/invariant.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/invariant.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12666,9 +12666,9 @@ var require_invariant = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/location.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/location.js
 var require_location = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/location.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/location.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12695,9 +12695,9 @@ var require_location = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/printLocation.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/printLocation.js
 var require_printLocation = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/printLocation.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/printLocation.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12753,9 +12753,9 @@ var require_printLocation = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/GraphQLError.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/GraphQLError.js
 var require_GraphQLError = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/GraphQLError.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/GraphQLError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12925,9 +12925,9 @@ var require_GraphQLError = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/syntaxError.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/syntaxError.js
 var require_syntaxError = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/syntaxError.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/syntaxError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -12943,9 +12943,9 @@ var require_syntaxError = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/ast.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/ast.js
 var require_ast = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/ast.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/ast.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -13127,9 +13127,9 @@ var require_ast = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/directiveLocation.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/directiveLocation.js
 var require_directiveLocation = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/directiveLocation.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/directiveLocation.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -13161,9 +13161,9 @@ var require_directiveLocation = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/kinds.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/kinds.js
 var require_kinds = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/kinds.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/kinds.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -13219,9 +13219,9 @@ var require_kinds = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/characterClasses.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/characterClasses.js
 var require_characterClasses = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/characterClasses.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/characterClasses.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -13250,9 +13250,9 @@ var require_characterClasses = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/blockString.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/blockString.js
 var require_blockString = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/blockString.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/blockString.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -13372,9 +13372,9 @@ var require_blockString = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/tokenKind.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/tokenKind.js
 var require_tokenKind = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/tokenKind.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/tokenKind.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -13409,9 +13409,9 @@ var require_tokenKind = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/lexer.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/lexer.js
 var require_lexer = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/lexer.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/lexer.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -14047,9 +14047,9 @@ var require_lexer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/inspect.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/inspect.js
 var require_inspect = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/inspect.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/inspect.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -14139,9 +14139,9 @@ var require_inspect = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/instanceOf.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/instanceOf.js
 var require_instanceOf = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/instanceOf.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/instanceOf.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -14189,9 +14189,9 @@ spurious results.`);
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/source.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/source.js
 var require_source = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/source.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/source.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -14233,9 +14233,9 @@ var require_source = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/parser.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/parser.js
 var require_parser = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/parser.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/parser.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -14254,7 +14254,12 @@ var require_parser = __commonJS({
     var _tokenKind = require_tokenKind();
     function parse2(source, options) {
       const parser = new Parser(source, options);
-      return parser.parseDocument();
+      const document = parser.parseDocument();
+      Object.defineProperty(document, "tokenCount", {
+        enumerable: false,
+        value: parser.tokenCount
+      });
+      return document;
     }
     function parseValue(source, options) {
       const parser = new Parser(source, options);
@@ -14283,6 +14288,9 @@ var require_parser = __commonJS({
         this._lexer = new _lexer.Lexer(sourceObj);
         this._options = options;
         this._tokenCounter = 0;
+      }
+      get tokenCount() {
+        return this._tokenCounter;
       }
       /**
        * Converts a name lex token into a name parse node.
@@ -15519,9 +15527,9 @@ var require_parser = __commonJS({
       advanceLexer() {
         const { maxTokens } = this._options;
         const token = this._lexer.advance();
-        if (maxTokens !== void 0 && token.kind !== _tokenKind.TokenKind.EOF) {
+        if (token.kind !== _tokenKind.TokenKind.EOF) {
           ++this._tokenCounter;
-          if (this._tokenCounter > maxTokens) {
+          if (maxTokens !== void 0 && this._tokenCounter > maxTokens) {
             throw (0, _syntaxError.syntaxError)(
               this._lexer.source,
               token.start,
@@ -15542,9 +15550,9 @@ var require_parser = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/didYouMean.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/didYouMean.js
 var require_didYouMean = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/didYouMean.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/didYouMean.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15573,9 +15581,9 @@ var require_didYouMean = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/identityFunc.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/identityFunc.js
 var require_identityFunc = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/identityFunc.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/identityFunc.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15587,9 +15595,9 @@ var require_identityFunc = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/keyMap.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/keyMap.js
 var require_keyMap = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/keyMap.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/keyMap.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15605,9 +15613,9 @@ var require_keyMap = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/keyValMap.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/keyValMap.js
 var require_keyValMap = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/keyValMap.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/keyValMap.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15623,9 +15631,9 @@ var require_keyValMap = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/mapValue.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/mapValue.js
 var require_mapValue = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/mapValue.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/mapValue.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15641,9 +15649,9 @@ var require_mapValue = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/naturalCompare.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/naturalCompare.js
 var require_naturalCompare = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/naturalCompare.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/naturalCompare.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15695,9 +15703,9 @@ var require_naturalCompare = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/suggestionList.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/suggestionList.js
 var require_suggestionList = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/suggestionList.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/suggestionList.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15796,9 +15804,9 @@ var require_suggestionList = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/toObjMap.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/toObjMap.js
 var require_toObjMap = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/toObjMap.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/toObjMap.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -15820,9 +15828,9 @@ var require_toObjMap = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/printString.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/printString.js
 var require_printString = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/printString.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/printString.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -16005,9 +16013,9 @@ var require_printString = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/visitor.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/visitor.js
 var require_visitor = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/visitor.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/visitor.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -16216,9 +16224,9 @@ var require_visitor = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/printer.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/printer.js
 var require_printer = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/printer.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/printer.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -16470,9 +16478,9 @@ var require_printer = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/valueFromASTUntyped.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/valueFromASTUntyped.js
 var require_valueFromASTUntyped = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/valueFromASTUntyped.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/valueFromASTUntyped.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -16509,9 +16517,9 @@ var require_valueFromASTUntyped = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/assertName.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/assertName.js
 var require_assertName = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/assertName.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/assertName.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -16554,9 +16562,9 @@ var require_assertName = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/definition.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/definition.js
 var require_definition = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/definition.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/definition.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -17382,9 +17390,9 @@ var require_definition = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/typeComparators.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/typeComparators.js
 var require_typeComparators = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/typeComparators.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/typeComparators.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -17447,9 +17455,9 @@ var require_typeComparators = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/scalars.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/scalars.js
 var require_scalars = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/scalars.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/scalars.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -17728,9 +17736,9 @@ var require_scalars = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/directives.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/directives.js
 var require_directives = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/directives.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/directives.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -17887,9 +17895,9 @@ var require_directives = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isIterableObject.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isIterableObject.js
 var require_isIterableObject = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isIterableObject.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isIterableObject.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -17901,9 +17909,9 @@ var require_isIterableObject = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/astFromValue.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/astFromValue.js
 var require_astFromValue = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/astFromValue.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/astFromValue.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -18024,9 +18032,9 @@ var require_astFromValue = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/introspection.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/introspection.js
 var require_introspection = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/introspection.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/introspection.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -18557,9 +18565,9 @@ var require_introspection = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/schema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/schema.js
 var require_schema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/schema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/schema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -18792,9 +18800,9 @@ var require_schema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/validate.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/validate.js
 var require_validate = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/validate.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/validate.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -18906,6 +18914,12 @@ var require_validate = __commonJS({
           continue;
         }
         validateName(context, directive);
+        if (directive.locations.length === 0) {
+          context.reportError(
+            `Directive @${directive.name} must include 1 or more locations.`,
+            directive.astNode
+          );
+        }
         for (const arg of directive.args) {
           validateName(context, arg);
           if (!(0, _definition.isInputType)(arg.type)) {
@@ -19258,9 +19272,9 @@ var require_validate = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/typeFromAST.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/typeFromAST.js
 var require_typeFromAST = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/typeFromAST.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/typeFromAST.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19285,9 +19299,9 @@ var require_typeFromAST = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/TypeInfo.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/TypeInfo.js
 var require_TypeInfo = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/TypeInfo.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/TypeInfo.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19562,9 +19576,9 @@ var require_TypeInfo = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/predicates.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/predicates.js
 var require_predicates = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/predicates.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/predicates.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19613,9 +19627,9 @@ var require_predicates = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ExecutableDefinitionsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ExecutableDefinitionsRule.js
 var require_ExecutableDefinitionsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ExecutableDefinitionsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ExecutableDefinitionsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19647,9 +19661,9 @@ var require_ExecutableDefinitionsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/FieldsOnCorrectTypeRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/FieldsOnCorrectTypeRule.js
 var require_FieldsOnCorrectTypeRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/FieldsOnCorrectTypeRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/FieldsOnCorrectTypeRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19736,9 +19750,9 @@ var require_FieldsOnCorrectTypeRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/FragmentsOnCompositeTypesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/FragmentsOnCompositeTypesRule.js
 var require_FragmentsOnCompositeTypesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/FragmentsOnCompositeTypesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/FragmentsOnCompositeTypesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19792,9 +19806,9 @@ var require_FragmentsOnCompositeTypesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownArgumentNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownArgumentNamesRule.js
 var require_KnownArgumentNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownArgumentNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownArgumentNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -19878,9 +19892,9 @@ var require_KnownArgumentNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownDirectivesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownDirectivesRule.js
 var require_KnownDirectivesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownDirectivesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownDirectivesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20000,9 +20014,9 @@ var require_KnownDirectivesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownFragmentNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownFragmentNamesRule.js
 var require_KnownFragmentNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownFragmentNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownFragmentNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20030,9 +20044,9 @@ var require_KnownFragmentNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownTypeNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownTypeNamesRule.js
 var require_KnownTypeNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/KnownTypeNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/KnownTypeNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20093,9 +20107,9 @@ var require_KnownTypeNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/LoneAnonymousOperationRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/LoneAnonymousOperationRule.js
 var require_LoneAnonymousOperationRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/LoneAnonymousOperationRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/LoneAnonymousOperationRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20128,9 +20142,9 @@ var require_LoneAnonymousOperationRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/LoneSchemaDefinitionRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/LoneSchemaDefinitionRule.js
 var require_LoneSchemaDefinitionRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/LoneSchemaDefinitionRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/LoneSchemaDefinitionRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20172,9 +20186,9 @@ var require_LoneSchemaDefinitionRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/MaxIntrospectionDepthRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/MaxIntrospectionDepthRule.js
 var require_MaxIntrospectionDepthRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/MaxIntrospectionDepthRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/MaxIntrospectionDepthRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20238,9 +20252,9 @@ var require_MaxIntrospectionDepthRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoFragmentCyclesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoFragmentCyclesRule.js
 var require_NoFragmentCyclesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoFragmentCyclesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoFragmentCyclesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20298,9 +20312,9 @@ var require_NoFragmentCyclesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoUndefinedVariablesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoUndefinedVariablesRule.js
 var require_NoUndefinedVariablesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoUndefinedVariablesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoUndefinedVariablesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20339,9 +20353,9 @@ var require_NoUndefinedVariablesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoUnusedFragmentsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoUnusedFragmentsRule.js
 var require_NoUnusedFragmentsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoUnusedFragmentsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoUnusedFragmentsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20390,9 +20404,9 @@ var require_NoUnusedFragmentsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoUnusedVariablesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoUnusedVariablesRule.js
 var require_NoUnusedVariablesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/NoUnusedVariablesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/NoUnusedVariablesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20435,9 +20449,9 @@ var require_NoUnusedVariablesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/sortValueNode.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/sortValueNode.js
 var require_sortValueNode = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/sortValueNode.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/sortValueNode.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20472,9 +20486,9 @@ var require_sortValueNode = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMergedRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMergedRule.js
 var require_OverlappingFieldsCanBeMergedRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMergedRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMergedRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -20496,6 +20510,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
       return reason;
     }
     function OverlappingFieldsCanBeMergedRule(context) {
+      const comparedFieldsAndFragmentPairs = new OrderedPairSet();
       const comparedFragmentPairs = new PairSet();
       const cachedFieldsAndFragmentNames = /* @__PURE__ */ new Map();
       return {
@@ -20503,6 +20518,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
           const conflicts = findConflictsWithinSelectionSet(
             context,
             cachedFieldsAndFragmentNames,
+            comparedFieldsAndFragmentPairs,
             comparedFragmentPairs,
             context.getParentType(),
             selectionSet
@@ -20521,7 +20537,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         }
       };
     }
-    function findConflictsWithinSelectionSet(context, cachedFieldsAndFragmentNames, comparedFragmentPairs, parentType, selectionSet) {
+    function findConflictsWithinSelectionSet(context, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, parentType, selectionSet) {
       const conflicts = [];
       const [fieldMap, fragmentNames] = getFieldsAndFragmentNames(
         context,
@@ -20533,6 +20549,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         context,
         conflicts,
         cachedFieldsAndFragmentNames,
+        comparedFieldsAndFragmentPairs,
         comparedFragmentPairs,
         fieldMap
       );
@@ -20542,6 +20559,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
             context,
             conflicts,
             cachedFieldsAndFragmentNames,
+            comparedFieldsAndFragmentPairs,
             comparedFragmentPairs,
             false,
             fieldMap,
@@ -20552,6 +20570,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
               context,
               conflicts,
               cachedFieldsAndFragmentNames,
+              comparedFieldsAndFragmentPairs,
               comparedFragmentPairs,
               false,
               fragmentNames[i],
@@ -20562,7 +20581,19 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
       }
       return conflicts;
     }
-    function collectConflictsBetweenFieldsAndFragment(context, conflicts, cachedFieldsAndFragmentNames, comparedFragmentPairs, areMutuallyExclusive, fieldMap, fragmentName) {
+    function collectConflictsBetweenFieldsAndFragment(context, conflicts, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, areMutuallyExclusive, fieldMap, fragmentName) {
+      if (comparedFieldsAndFragmentPairs.has(
+        fieldMap,
+        fragmentName,
+        areMutuallyExclusive
+      )) {
+        return;
+      }
+      comparedFieldsAndFragmentPairs.add(
+        fieldMap,
+        fragmentName,
+        areMutuallyExclusive
+      );
       const fragment = context.getFragment(fragmentName);
       if (!fragment) {
         return;
@@ -20579,28 +20610,18 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         context,
         conflicts,
         cachedFieldsAndFragmentNames,
+        comparedFieldsAndFragmentPairs,
         comparedFragmentPairs,
         areMutuallyExclusive,
         fieldMap,
         fieldMap2
       );
       for (const referencedFragmentName of referencedFragmentNames) {
-        if (comparedFragmentPairs.has(
-          referencedFragmentName,
-          fragmentName,
-          areMutuallyExclusive
-        )) {
-          continue;
-        }
-        comparedFragmentPairs.add(
-          referencedFragmentName,
-          fragmentName,
-          areMutuallyExclusive
-        );
         collectConflictsBetweenFieldsAndFragment(
           context,
           conflicts,
           cachedFieldsAndFragmentNames,
+          comparedFieldsAndFragmentPairs,
           comparedFragmentPairs,
           areMutuallyExclusive,
           fieldMap,
@@ -20608,7 +20629,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         );
       }
     }
-    function collectConflictsBetweenFragments(context, conflicts, cachedFieldsAndFragmentNames, comparedFragmentPairs, areMutuallyExclusive, fragmentName1, fragmentName2) {
+    function collectConflictsBetweenFragments(context, conflicts, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, areMutuallyExclusive, fragmentName1, fragmentName2) {
       if (fragmentName1 === fragmentName2) {
         return;
       }
@@ -20639,6 +20660,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         context,
         conflicts,
         cachedFieldsAndFragmentNames,
+        comparedFieldsAndFragmentPairs,
         comparedFragmentPairs,
         areMutuallyExclusive,
         fieldMap1,
@@ -20649,6 +20671,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
           context,
           conflicts,
           cachedFieldsAndFragmentNames,
+          comparedFieldsAndFragmentPairs,
           comparedFragmentPairs,
           areMutuallyExclusive,
           fragmentName1,
@@ -20660,6 +20683,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
           context,
           conflicts,
           cachedFieldsAndFragmentNames,
+          comparedFieldsAndFragmentPairs,
           comparedFragmentPairs,
           areMutuallyExclusive,
           referencedFragmentName1,
@@ -20667,7 +20691,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         );
       }
     }
-    function findConflictsBetweenSubSelectionSets(context, cachedFieldsAndFragmentNames, comparedFragmentPairs, areMutuallyExclusive, parentType1, selectionSet1, parentType2, selectionSet2) {
+    function findConflictsBetweenSubSelectionSets(context, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, areMutuallyExclusive, parentType1, selectionSet1, parentType2, selectionSet2) {
       const conflicts = [];
       const [fieldMap1, fragmentNames1] = getFieldsAndFragmentNames(
         context,
@@ -20685,6 +20709,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         context,
         conflicts,
         cachedFieldsAndFragmentNames,
+        comparedFieldsAndFragmentPairs,
         comparedFragmentPairs,
         areMutuallyExclusive,
         fieldMap1,
@@ -20695,6 +20720,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
           context,
           conflicts,
           cachedFieldsAndFragmentNames,
+          comparedFieldsAndFragmentPairs,
           comparedFragmentPairs,
           areMutuallyExclusive,
           fieldMap1,
@@ -20706,6 +20732,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
           context,
           conflicts,
           cachedFieldsAndFragmentNames,
+          comparedFieldsAndFragmentPairs,
           comparedFragmentPairs,
           areMutuallyExclusive,
           fieldMap2,
@@ -20718,6 +20745,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
             context,
             conflicts,
             cachedFieldsAndFragmentNames,
+            comparedFieldsAndFragmentPairs,
             comparedFragmentPairs,
             areMutuallyExclusive,
             fragmentName1,
@@ -20727,7 +20755,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
       }
       return conflicts;
     }
-    function collectConflictsWithin(context, conflicts, cachedFieldsAndFragmentNames, comparedFragmentPairs, fieldMap) {
+    function collectConflictsWithin(context, conflicts, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, fieldMap) {
       for (const [responseName, fields] of Object.entries(fieldMap)) {
         if (fields.length > 1) {
           for (let i = 0; i < fields.length; i++) {
@@ -20735,6 +20763,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
               const conflict = findConflict(
                 context,
                 cachedFieldsAndFragmentNames,
+                comparedFieldsAndFragmentPairs,
                 comparedFragmentPairs,
                 false,
                 // within one collection is never mutually exclusive
@@ -20750,7 +20779,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         }
       }
     }
-    function collectConflictsBetween(context, conflicts, cachedFieldsAndFragmentNames, comparedFragmentPairs, parentFieldsAreMutuallyExclusive, fieldMap1, fieldMap2) {
+    function collectConflictsBetween(context, conflicts, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, parentFieldsAreMutuallyExclusive, fieldMap1, fieldMap2) {
       for (const [responseName, fields1] of Object.entries(fieldMap1)) {
         const fields2 = fieldMap2[responseName];
         if (fields2) {
@@ -20759,6 +20788,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
               const conflict = findConflict(
                 context,
                 cachedFieldsAndFragmentNames,
+                comparedFieldsAndFragmentPairs,
                 comparedFragmentPairs,
                 parentFieldsAreMutuallyExclusive,
                 responseName,
@@ -20773,7 +20803,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         }
       }
     }
-    function findConflict(context, cachedFieldsAndFragmentNames, comparedFragmentPairs, parentFieldsAreMutuallyExclusive, responseName, field1, field2) {
+    function findConflict(context, cachedFieldsAndFragmentNames, comparedFieldsAndFragmentPairs, comparedFragmentPairs, parentFieldsAreMutuallyExclusive, responseName, field1, field2) {
       const [parentType1, node1, def1] = field1;
       const [parentType2, node2, def2] = field2;
       const areMutuallyExclusive = parentFieldsAreMutuallyExclusive || parentType1 !== parentType2 && (0, _definition.isObjectType)(parentType1) && (0, _definition.isObjectType)(parentType2);
@@ -20815,6 +20845,7 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         const conflicts = findConflictsBetweenSubSelectionSets(
           context,
           cachedFieldsAndFragmentNames,
+          comparedFieldsAndFragmentPairs,
           comparedFragmentPairs,
           areMutuallyExclusive,
           (0, _definition.getNamedType)(type1),
@@ -20945,35 +20976,48 @@ var require_OverlappingFieldsCanBeMergedRule = __commonJS({
         ];
       }
     }
-    var PairSet = class {
+    var OrderedPairSet = class {
       constructor() {
         this._data = /* @__PURE__ */ new Map();
       }
-      has(a2, b2, areMutuallyExclusive) {
+      has(a2, b2, weaklyPresent) {
         var _this$_data$get;
-        const [key1, key2] = a2 < b2 ? [a2, b2] : [b2, a2];
-        const result = (_this$_data$get = this._data.get(key1)) === null || _this$_data$get === void 0 ? void 0 : _this$_data$get.get(key2);
+        const result = (_this$_data$get = this._data.get(a2)) === null || _this$_data$get === void 0 ? void 0 : _this$_data$get.get(b2);
         if (result === void 0) {
           return false;
         }
-        return areMutuallyExclusive ? true : areMutuallyExclusive === result;
+        return weaklyPresent ? true : weaklyPresent === result;
       }
-      add(a2, b2, areMutuallyExclusive) {
-        const [key1, key2] = a2 < b2 ? [a2, b2] : [b2, a2];
-        const map = this._data.get(key1);
+      add(a2, b2, weaklyPresent) {
+        const map = this._data.get(a2);
         if (map === void 0) {
-          this._data.set(key1, /* @__PURE__ */ new Map([[key2, areMutuallyExclusive]]));
+          this._data.set(a2, /* @__PURE__ */ new Map([[b2, weaklyPresent]]));
         } else {
-          map.set(key2, areMutuallyExclusive);
+          map.set(b2, weaklyPresent);
+        }
+      }
+    };
+    var PairSet = class {
+      constructor() {
+        this._orderedPairSet = new OrderedPairSet();
+      }
+      has(a2, b2, weaklyPresent) {
+        return a2 < b2 ? this._orderedPairSet.has(a2, b2, weaklyPresent) : this._orderedPairSet.has(b2, a2, weaklyPresent);
+      }
+      add(a2, b2, weaklyPresent) {
+        if (a2 < b2) {
+          this._orderedPairSet.add(a2, b2, weaklyPresent);
+        } else {
+          this._orderedPairSet.add(b2, a2, weaklyPresent);
         }
       }
     };
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/PossibleFragmentSpreadsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/PossibleFragmentSpreadsRule.js
 var require_PossibleFragmentSpreadsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/PossibleFragmentSpreadsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/PossibleFragmentSpreadsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21044,9 +21088,9 @@ var require_PossibleFragmentSpreadsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/PossibleTypeExtensionsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/PossibleTypeExtensionsRule.js
 var require_PossibleTypeExtensionsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/PossibleTypeExtensionsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/PossibleTypeExtensionsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21176,9 +21220,9 @@ var require_PossibleTypeExtensionsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ProvidedRequiredArgumentsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ProvidedRequiredArgumentsRule.js
 var require_ProvidedRequiredArgumentsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ProvidedRequiredArgumentsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ProvidedRequiredArgumentsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21282,9 +21326,9 @@ var require_ProvidedRequiredArgumentsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ScalarLeafsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ScalarLeafsRule.js
 var require_ScalarLeafsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ScalarLeafsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ScalarLeafsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21323,6 +21367,17 @@ var require_ScalarLeafsRule = __commonJS({
                   }
                 )
               );
+            } else if (selectionSet.selections.length === 0) {
+              const fieldName = node.name.value;
+              const typeStr = (0, _inspect.inspect)(type);
+              context.reportError(
+                new _GraphQLError.GraphQLError(
+                  `Field "${fieldName}" of type "${typeStr}" must have at least one field selected.`,
+                  {
+                    nodes: node
+                  }
+                )
+              );
             }
           }
         }
@@ -21331,9 +21386,9 @@ var require_ScalarLeafsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/printPathArray.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/printPathArray.js
 var require_printPathArray = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/printPathArray.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/printPathArray.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21347,9 +21402,9 @@ var require_printPathArray = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/Path.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/Path.js
 var require_Path = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/Path.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/Path.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21375,9 +21430,9 @@ var require_Path = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/coerceInputValue.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/coerceInputValue.js
 var require_coerceInputValue = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/coerceInputValue.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/coerceInputValue.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21546,9 +21601,9 @@ var require_coerceInputValue = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/valueFromAST.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/valueFromAST.js
 var require_valueFromAST = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/valueFromAST.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/valueFromAST.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21668,9 +21723,9 @@ var require_valueFromAST = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/values.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/values.js
 var require_values = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/values.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/values.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -21879,9 +21934,9 @@ var require_values = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/collectFields.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/collectFields.js
 var require_collectFields = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/collectFields.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/collectFields.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22021,9 +22076,9 @@ var require_collectFields = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/SingleFieldSubscriptionsRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/SingleFieldSubscriptionsRule.js
 var require_SingleFieldSubscriptionsRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/SingleFieldSubscriptionsRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/SingleFieldSubscriptionsRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22090,9 +22145,9 @@ var require_SingleFieldSubscriptionsRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/groupBy.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/groupBy.js
 var require_groupBy = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/groupBy.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/groupBy.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22114,9 +22169,9 @@ var require_groupBy = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueArgumentDefinitionNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueArgumentDefinitionNamesRule.js
 var require_UniqueArgumentDefinitionNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueArgumentDefinitionNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueArgumentDefinitionNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22171,9 +22226,9 @@ var require_UniqueArgumentDefinitionNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueArgumentNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueArgumentNamesRule.js
 var require_UniqueArgumentNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueArgumentNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueArgumentNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22210,9 +22265,9 @@ var require_UniqueArgumentNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueDirectiveNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueDirectiveNamesRule.js
 var require_UniqueDirectiveNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueDirectiveNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueDirectiveNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22255,9 +22310,9 @@ var require_UniqueDirectiveNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueDirectivesPerLocationRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueDirectivesPerLocationRule.js
 var require_UniqueDirectivesPerLocationRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueDirectivesPerLocationRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueDirectivesPerLocationRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22325,9 +22380,9 @@ var require_UniqueDirectivesPerLocationRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueEnumValueNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueEnumValueNamesRule.js
 var require_UniqueEnumValueNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueEnumValueNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueEnumValueNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22382,9 +22437,9 @@ var require_UniqueEnumValueNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueFieldDefinitionNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueFieldDefinitionNamesRule.js
 var require_UniqueFieldDefinitionNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueFieldDefinitionNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueFieldDefinitionNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22448,9 +22503,9 @@ var require_UniqueFieldDefinitionNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueFragmentNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueFragmentNamesRule.js
 var require_UniqueFragmentNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueFragmentNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueFragmentNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22482,9 +22537,9 @@ var require_UniqueFragmentNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueInputFieldNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueInputFieldNamesRule.js
 var require_UniqueInputFieldNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueInputFieldNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueInputFieldNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22527,9 +22582,9 @@ var require_UniqueInputFieldNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueOperationNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueOperationNamesRule.js
 var require_UniqueOperationNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueOperationNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueOperationNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22566,9 +22621,9 @@ var require_UniqueOperationNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueOperationTypesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueOperationTypesRule.js
 var require_UniqueOperationTypesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueOperationTypesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueOperationTypesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22621,9 +22676,9 @@ var require_UniqueOperationTypesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueTypeNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueTypeNamesRule.js
 var require_UniqueTypeNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueTypeNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueTypeNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22672,9 +22727,9 @@ var require_UniqueTypeNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueVariableNamesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueVariableNamesRule.js
 var require_UniqueVariableNamesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/UniqueVariableNamesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/UniqueVariableNamesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22709,9 +22764,9 @@ var require_UniqueVariableNamesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js
 var require_ValuesOfCorrectTypeRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/ValuesOfCorrectTypeRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22927,9 +22982,9 @@ var require_ValuesOfCorrectTypeRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/VariablesAreInputTypesRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/VariablesAreInputTypesRule.js
 var require_VariablesAreInputTypesRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/VariablesAreInputTypesRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/VariablesAreInputTypesRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -22964,9 +23019,9 @@ var require_VariablesAreInputTypesRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/VariablesInAllowedPositionRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/VariablesInAllowedPositionRule.js
 var require_VariablesInAllowedPositionRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/VariablesInAllowedPositionRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/VariablesInAllowedPositionRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23039,9 +23094,9 @@ var require_VariablesInAllowedPositionRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/specifiedRules.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/specifiedRules.js
 var require_specifiedRules = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/specifiedRules.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/specifiedRules.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23137,9 +23192,9 @@ var require_specifiedRules = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/ValidationContext.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/ValidationContext.js
 var require_ValidationContext = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/ValidationContext.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/ValidationContext.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23315,9 +23370,9 @@ var require_ValidationContext = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/validate.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/validate.js
 var require_validate2 = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/validate.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/validate.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23399,9 +23454,9 @@ var require_validate2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/memoize3.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/memoize3.js
 var require_memoize3 = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/memoize3.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/memoize3.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23434,9 +23489,9 @@ var require_memoize3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/promiseForObject.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/promiseForObject.js
 var require_promiseForObject = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/promiseForObject.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/promiseForObject.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23454,9 +23509,9 @@ var require_promiseForObject = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/promiseReduce.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/promiseReduce.js
 var require_promiseReduce = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/promiseReduce.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/promiseReduce.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23473,9 +23528,9 @@ var require_promiseReduce = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/toError.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/toError.js
 var require_toError = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/toError.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/toError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23495,9 +23550,9 @@ var require_toError = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/locatedError.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/locatedError.js
 var require_locatedError = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/locatedError.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/locatedError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -23525,9 +23580,9 @@ var require_locatedError = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/execute.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/execute.js
 var require_execute = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/execute.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/execute.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -24161,9 +24216,9 @@ var require_execute = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/graphql.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/graphql.js
 var require_graphql = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/graphql.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/graphql.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -24235,9 +24290,9 @@ var require_graphql = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/index.js
 var require_type = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/type/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/type/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -24786,9 +24841,9 @@ var require_type = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/index.js
 var require_language = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/language/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/language/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -24994,9 +25049,9 @@ var require_language = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isAsyncIterable.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isAsyncIterable.js
 var require_isAsyncIterable = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/jsutils/isAsyncIterable.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/jsutils/isAsyncIterable.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25008,9 +25063,9 @@ var require_isAsyncIterable = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/mapAsyncIterator.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/mapAsyncIterator.js
 var require_mapAsyncIterator = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/mapAsyncIterator.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/mapAsyncIterator.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25061,9 +25116,9 @@ var require_mapAsyncIterator = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/subscribe.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/subscribe.js
 var require_subscribe = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/subscribe.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/subscribe.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25200,9 +25255,9 @@ var require_subscribe = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/index.js
 var require_execution = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/execution/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/execution/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25274,9 +25329,9 @@ var require_execution = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/custom/NoDeprecatedCustomRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/custom/NoDeprecatedCustomRule.js
 var require_NoDeprecatedCustomRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/custom/NoDeprecatedCustomRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/custom/NoDeprecatedCustomRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25374,9 +25429,9 @@ var require_NoDeprecatedCustomRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/custom/NoSchemaIntrospectionCustomRule.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/custom/NoSchemaIntrospectionCustomRule.js
 var require_NoSchemaIntrospectionCustomRule = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/rules/custom/NoSchemaIntrospectionCustomRule.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/rules/custom/NoSchemaIntrospectionCustomRule.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25405,9 +25460,9 @@ var require_NoSchemaIntrospectionCustomRule = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/index.js
 var require_validation = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/validation/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/validation/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25701,9 +25756,9 @@ var require_validation = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/index.js
 var require_error = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/error/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/error/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25744,9 +25799,9 @@ var require_error = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/getIntrospectionQuery.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/getIntrospectionQuery.js
 var require_getIntrospectionQuery = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/getIntrospectionQuery.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/getIntrospectionQuery.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25774,9 +25829,9 @@ var require_getIntrospectionQuery = __commonJS({
     query IntrospectionQuery {
       __schema {
         ${schemaDescription}
-        queryType { name }
-        mutationType { name }
-        subscriptionType { name }
+        queryType { name kind }
+        mutationType { name kind }
+        subscriptionType { name kind }
         types {
           ...FullType
         }
@@ -25881,9 +25936,9 @@ var require_getIntrospectionQuery = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/getOperationAST.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/getOperationAST.js
 var require_getOperationAST = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/getOperationAST.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/getOperationAST.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25910,9 +25965,9 @@ var require_getOperationAST = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/getOperationRootType.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/getOperationRootType.js
 var require_getOperationRootType = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/getOperationRootType.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/getOperationRootType.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -25966,9 +26021,9 @@ var require_getOperationRootType = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/introspectionFromSchema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/introspectionFromSchema.js
 var require_introspectionFromSchema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/introspectionFromSchema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/introspectionFromSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -26000,9 +26055,9 @@ var require_introspectionFromSchema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/buildClientSchema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/buildClientSchema.js
 var require_buildClientSchema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/buildClientSchema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/buildClientSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -26290,9 +26345,9 @@ var require_buildClientSchema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/extendSchema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/extendSchema.js
 var require_extendSchema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/extendSchema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/extendSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -26781,9 +26836,9 @@ var require_extendSchema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/buildASTSchema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/buildASTSchema.js
 var require_buildASTSchema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/buildASTSchema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/buildASTSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -26857,9 +26912,9 @@ var require_buildASTSchema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/lexicographicSortSchema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/lexicographicSortSchema.js
 var require_lexicographicSortSchema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/lexicographicSortSchema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/lexicographicSortSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -26996,9 +27051,9 @@ var require_lexicographicSortSchema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/printSchema.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/printSchema.js
 var require_printSchema = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/printSchema.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/printSchema.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -27205,9 +27260,9 @@ ${operationTypes.join("\n")}
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/concatAST.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/concatAST.js
 var require_concatAST = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/concatAST.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/concatAST.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -27227,9 +27282,9 @@ var require_concatAST = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/separateOperations.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/separateOperations.js
 var require_separateOperations = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/separateOperations.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/separateOperations.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -27292,9 +27347,9 @@ var require_separateOperations = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/stripIgnoredCharacters.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/stripIgnoredCharacters.js
 var require_stripIgnoredCharacters = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/stripIgnoredCharacters.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/stripIgnoredCharacters.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -27336,9 +27391,9 @@ var require_stripIgnoredCharacters = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/assertValidName.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/assertValidName.js
 var require_assertValidName = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/assertValidName.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/assertValidName.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -27371,9 +27426,9 @@ var require_assertValidName = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/findBreakingChanges.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/findBreakingChanges.js
 var require_findBreakingChanges = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/findBreakingChanges.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/findBreakingChanges.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -27785,9 +27840,9 @@ var require_findBreakingChanges = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/index.js
 var require_utilities = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/utilities/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/utilities/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -28002,9 +28057,9 @@ var require_utilities = __commonJS({
   }
 });
 
-// node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/index.js
+// node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/index.js
 var require_graphql2 = __commonJS({
-  "node_modules/.pnpm/graphql@16.9.0/node_modules/graphql/index.js"(exports2) {
+  "node_modules/.pnpm/graphql@16.10.0/node_modules/graphql/index.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", {
       value: true
@@ -32315,9 +32370,9 @@ var require_node_ponyfill = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/url.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/url.js
 var require_url = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/url.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/url.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.pathToFunc = pathToFunc;
@@ -32340,9 +32395,9 @@ var require_url = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/config.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/config.js
 var require_config = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/config.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/config.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SDK_METADATA = exports2.ServerList = exports2.ServerEu = void 0;
@@ -32373,9 +32428,9 @@ var require_config = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/files.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/files.js
 var require_files = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/files.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/files.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.readableStreamToArrayBuffer = readableStreamToArrayBuffer;
@@ -32404,9 +32459,9 @@ var require_files = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/custom_user_agent.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/custom_user_agent.js
 var require_custom_user_agent = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/custom_user_agent.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/custom_user_agent.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.CustomUserAgentHook = void 0;
@@ -32426,9 +32481,9 @@ var require_custom_user_agent = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/deprecation_warning.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/deprecation_warning.js
 var require_deprecation_warning = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/deprecation_warning.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/deprecation_warning.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.DeprecationWarningHook = void 0;
@@ -32448,9 +32503,9 @@ var require_deprecation_warning = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/registration.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/registration.js
 var require_registration = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/registration.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/registration.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.initHooks = initHooks;
@@ -32465,9 +32520,9 @@ var require_registration = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/hooks.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/hooks.js
 var require_hooks = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/hooks/hooks.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/hooks/hooks.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SDKHooks = void 0;
@@ -32535,9 +32590,9 @@ var require_hooks = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/httpclienterrors.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/httpclienterrors.js
 var require_httpclienterrors = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/httpclienterrors.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/httpclienterrors.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ConnectionError = exports2.RequestTimeoutError = exports2.RequestAbortedError = exports2.InvalidRequestError = exports2.UnexpectedClientError = exports2.HTTPClientError = void 0;
@@ -32593,9 +32648,9 @@ var require_httpclienterrors = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/fp.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/fp.js
 var require_fp = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/fp.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/fp.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.OK = OK2;
@@ -32624,9 +32679,9 @@ var require_fp = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/util.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/util.js
 var require_util = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/util.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/util.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.getParsedType = exports2.ZodParsedType = exports2.objectUtil = exports2.util = void 0;
@@ -32687,7 +32742,7 @@ var require_util = __commonJS({
         }
         return value;
       };
-    })(util2 = exports2.util || (exports2.util = {}));
+    })(util2 || (exports2.util = util2 = {}));
     var objectUtil2;
     (function(objectUtil3) {
       objectUtil3.mergeShapes = (first, second) => {
@@ -32697,7 +32752,7 @@ var require_util = __commonJS({
           // second overwrites first
         };
       };
-    })(objectUtil2 = exports2.objectUtil || (exports2.objectUtil = {}));
+    })(objectUtil2 || (exports2.objectUtil = objectUtil2 = {}));
     exports2.ZodParsedType = util2.arrayToEnum([
       "string",
       "nan",
@@ -32765,9 +32820,9 @@ var require_util = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/ZodError.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/ZodError.js
 var require_ZodError = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/ZodError.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/ZodError.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.ZodError = exports2.quotelessJson = exports2.ZodIssueCode = void 0;
@@ -32796,6 +32851,9 @@ var require_ZodError = __commonJS({
     };
     exports2.quotelessJson = quotelessJson2;
     var ZodError2 = class _ZodError extends Error {
+      get errors() {
+        return this.issues;
+      }
       constructor(issues) {
         super();
         this.issues = [];
@@ -32813,9 +32871,6 @@ var require_ZodError = __commonJS({
         }
         this.name = "ZodError";
         this.issues = issues;
-      }
-      get errors() {
-        return this.issues;
       }
       format(_mapper) {
         const mapper = _mapper || function(issue) {
@@ -32892,9 +32947,9 @@ var require_ZodError = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/locales/en.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/locales/en.js
 var require_en = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/locales/en.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/locales/en.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     var util_1 = require_util();
@@ -33001,9 +33056,9 @@ var require_en = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/errors.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/errors.js
 var require_errors = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/errors.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/errors.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -33024,9 +33079,9 @@ var require_errors = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/parseUtil.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/parseUtil.js
 var require_parseUtil = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/parseUtil.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/parseUtil.js"(exports2) {
     "use strict";
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -33070,8 +33125,11 @@ var require_parseUtil = __commonJS({
         path: ctx.path,
         errorMaps: [
           ctx.common.contextualErrorMap,
+          // contextual error map is first priority
           ctx.schemaErrorMap,
+          // then schema-bound map if available
           overrideMap,
+          // then global override map
           overrideMap === en_1.default ? void 0 : en_1.default
           // then global default map
         ].filter((x2) => !!x2)
@@ -33152,17 +33210,17 @@ var require_parseUtil = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/typeAliases.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/typeAliases.js
 var require_typeAliases = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/typeAliases.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/typeAliases.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/errorUtil.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/errorUtil.js
 var require_errorUtil = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/helpers/errorUtil.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/helpers/errorUtil.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.errorUtil = void 0;
@@ -33170,13 +33228,13 @@ var require_errorUtil = __commonJS({
     (function(errorUtil3) {
       errorUtil3.errToObj = (message) => typeof message === "string" ? { message } : message || {};
       errorUtil3.toString = (message) => typeof message === "string" ? message : message === null || message === void 0 ? void 0 : message.message;
-    })(errorUtil2 = exports2.errorUtil || (exports2.errorUtil = {}));
+    })(errorUtil2 || (exports2.errorUtil = errorUtil2 = {}));
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/types.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/types.js
 var require_types = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/types.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/types.js"(exports2) {
     "use strict";
     var __classPrivateFieldGet2 = exports2 && exports2.__classPrivateFieldGet || function(receiver, state, kind, f2) {
       if (kind === "a" && !f2) throw new TypeError("Private accessor was defined without a getter");
@@ -33262,39 +33320,6 @@ var require_types = __commonJS({
       return { errorMap: customMap, description };
     }
     var ZodType2 = class {
-      constructor(def) {
-        this.spa = this.safeParseAsync;
-        this._def = def;
-        this.parse = this.parse.bind(this);
-        this.safeParse = this.safeParse.bind(this);
-        this.parseAsync = this.parseAsync.bind(this);
-        this.safeParseAsync = this.safeParseAsync.bind(this);
-        this.spa = this.spa.bind(this);
-        this.refine = this.refine.bind(this);
-        this.refinement = this.refinement.bind(this);
-        this.superRefine = this.superRefine.bind(this);
-        this.optional = this.optional.bind(this);
-        this.nullable = this.nullable.bind(this);
-        this.nullish = this.nullish.bind(this);
-        this.array = this.array.bind(this);
-        this.promise = this.promise.bind(this);
-        this.or = this.or.bind(this);
-        this.and = this.and.bind(this);
-        this.transform = this.transform.bind(this);
-        this.brand = this.brand.bind(this);
-        this.default = this.default.bind(this);
-        this.catch = this.catch.bind(this);
-        this.describe = this.describe.bind(this);
-        this.pipe = this.pipe.bind(this);
-        this.readonly = this.readonly.bind(this);
-        this.isNullable = this.isNullable.bind(this);
-        this.isOptional = this.isOptional.bind(this);
-        this["~standard"] = {
-          version: 1,
-          vendor: "zod",
-          validate: (data) => this["~validate"](data)
-        };
-      }
       get description() {
         return this._def.description;
       }
@@ -33359,7 +33384,7 @@ var require_types = __commonJS({
         return handleResult2(ctx, result);
       }
       "~validate"(data) {
-        var _a, _b, _c;
+        var _a, _b;
         const ctx = {
           common: {
             issues: [],
@@ -33380,7 +33405,7 @@ var require_types = __commonJS({
               issues: ctx.common.issues
             };
           } catch (err) {
-            if ((_c = (_b = (_a = err) === null || _a === void 0 ? void 0 : _a.message) === null || _b === void 0 ? void 0 : _b.toLowerCase()) === null || _c === void 0 ? void 0 : _c.includes("encountered")) {
+            if ((_b = (_a = err === null || err === void 0 ? void 0 : err.message) === null || _a === void 0 ? void 0 : _a.toLowerCase()) === null || _b === void 0 ? void 0 : _b.includes("encountered")) {
               this["~standard"].async = true;
             }
             ctx.common = {
@@ -33471,6 +33496,39 @@ var require_types = __commonJS({
       }
       superRefine(refinement) {
         return this._refinement(refinement);
+      }
+      constructor(def) {
+        this.spa = this.safeParseAsync;
+        this._def = def;
+        this.parse = this.parse.bind(this);
+        this.safeParse = this.safeParse.bind(this);
+        this.parseAsync = this.parseAsync.bind(this);
+        this.safeParseAsync = this.safeParseAsync.bind(this);
+        this.spa = this.spa.bind(this);
+        this.refine = this.refine.bind(this);
+        this.refinement = this.refinement.bind(this);
+        this.superRefine = this.superRefine.bind(this);
+        this.optional = this.optional.bind(this);
+        this.nullable = this.nullable.bind(this);
+        this.nullish = this.nullish.bind(this);
+        this.array = this.array.bind(this);
+        this.promise = this.promise.bind(this);
+        this.or = this.or.bind(this);
+        this.and = this.and.bind(this);
+        this.transform = this.transform.bind(this);
+        this.brand = this.brand.bind(this);
+        this.default = this.default.bind(this);
+        this.catch = this.catch.bind(this);
+        this.describe = this.describe.bind(this);
+        this.pipe = this.pipe.bind(this);
+        this.readonly = this.readonly.bind(this);
+        this.isNullable = this.isNullable.bind(this);
+        this.isOptional = this.isOptional.bind(this);
+        this["~standard"] = {
+          version: 1,
+          vendor: "zod",
+          validate: (data) => this["~validate"](data)
+        };
       }
       optional() {
         return ZodOptional2.create(this, this._def);
@@ -33968,7 +34026,10 @@ var require_types = __commonJS({
         return this._addCheck({ kind: "base64", ...errorUtil_1.errorUtil.errToObj(message) });
       }
       base64url(message) {
-        return this._addCheck({ kind: "base64url", ...errorUtil_1.errorUtil.errToObj(message) });
+        return this._addCheck({
+          kind: "base64url",
+          ...errorUtil_1.errorUtil.errToObj(message)
+        });
       }
       jwt(options) {
         return this._addCheck({ kind: "jwt", ...errorUtil_1.errorUtil.errToObj(options) });
@@ -34069,8 +34130,7 @@ var require_types = __commonJS({
         });
       }
       /**
-       * @deprecated Use z.string().min(1) instead.
-       * @see {@link ZodString.min}
+       * Equivalent to `.min(1)`
        */
       nonempty(message) {
         return this.min(1, errorUtil_1.errorUtil.errToObj(message));
@@ -36636,7 +36696,7 @@ var require_types = __commonJS({
       ZodFirstPartyTypeKind3["ZodBranded"] = "ZodBranded";
       ZodFirstPartyTypeKind3["ZodPipeline"] = "ZodPipeline";
       ZodFirstPartyTypeKind3["ZodReadonly"] = "ZodReadonly";
-    })(ZodFirstPartyTypeKind2 = exports2.ZodFirstPartyTypeKind || (exports2.ZodFirstPartyTypeKind = {}));
+    })(ZodFirstPartyTypeKind2 || (exports2.ZodFirstPartyTypeKind = ZodFirstPartyTypeKind2 = {}));
     var instanceOfType2 = (cls, params = {
       message: `Input not instance of ${cls.name}`
     }) => custom2((data) => data instanceof cls, params);
@@ -36730,15 +36790,19 @@ var require_types = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/external.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/external.js
 var require_external = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/external.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/external.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
-      Object.defineProperty(o, k22, { enumerable: true, get: function() {
-        return m2[k2];
-      } });
+      var desc = Object.getOwnPropertyDescriptor(m2, k2);
+      if (!desc || ("get" in desc ? !m2.__esModule : desc.writable || desc.configurable)) {
+        desc = { enumerable: true, get: function() {
+          return m2[k2];
+        } };
+      }
+      Object.defineProperty(o, k22, desc);
     } : function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
       o[k22] = m2[k2];
@@ -36756,15 +36820,19 @@ var require_external = __commonJS({
   }
 });
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/index.js
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/index.js
 var require_lib3 = __commonJS({
-  "node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/index.js"(exports2) {
+  "node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/index.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
-      Object.defineProperty(o, k22, { enumerable: true, get: function() {
-        return m2[k2];
-      } });
+      var desc = Object.getOwnPropertyDescriptor(m2, k2);
+      if (!desc || ("get" in desc ? !m2.__esModule : desc.writable || desc.configurable)) {
+        desc = { enumerable: true, get: function() {
+          return m2[k2];
+        } };
+      }
+      Object.defineProperty(o, k22, desc);
     } : function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
       o[k22] = m2[k2];
@@ -36795,9 +36863,9 @@ var require_lib3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/base64.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/base64.js
 var require_base64 = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/base64.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/base64.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -36858,9 +36926,9 @@ var require_base64 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/is-plain-object.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/is-plain-object.js
 var require_is_plain_object = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/is-plain-object.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/is-plain-object.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isPlainObject = isPlainObject;
@@ -36874,9 +36942,9 @@ var require_is_plain_object = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/encodings.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/encodings.js
 var require_encodings = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/encodings.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/encodings.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.encodeDeepObjectQuery = exports2.encodePipeDelimitedQuery = exports2.encodeSpaceDelimitedQuery = exports2.encodeFormQuery = exports2.encodeJSONQuery = exports2.encodeSimple = exports2.encodePipeDelimited = exports2.encodeSpaceDelimited = exports2.encodeForm = exports2.EncodingError = void 0;
@@ -37182,9 +37250,9 @@ var require_encodings = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/dlv.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/dlv.js
 var require_dlv = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/dlv.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/dlv.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.dlv = dlv;
@@ -37199,9 +37267,9 @@ var require_dlv = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/env.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/env.js
 var require_env = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/env.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/env.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -37255,9 +37323,9 @@ var require_env = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/http.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/http.js
 var require_http = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/http.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/http.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.HTTPClient = void 0;
@@ -37434,9 +37502,9 @@ var require_http = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/retries.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/retries.js
 var require_retries = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/retries.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/retries.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.TemporaryError = exports2.PermanentError = void 0;
@@ -37575,9 +37643,9 @@ var require_retries = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/sdks.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/sdks.js
 var require_sdks = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/sdks.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/sdks.js"(exports2) {
     "use strict";
     var __classPrivateFieldSet2 = exports2 && exports2.__classPrivateFieldSet || function(receiver, state, value, kind, f2) {
       if (kind === "m") throw new TypeError("Private method is not writable");
@@ -37843,9 +37911,9 @@ var require_sdks = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/sdkerror.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/sdkerror.js
 var require_sdkerror = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/sdkerror.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/sdkerror.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SDKError = void 0;
@@ -37867,9 +37935,9 @@ ${body}` : "";
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/event-streams.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/event-streams.js
 var require_event_streams = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/event-streams.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/event-streams.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.EventStream = void 0;
@@ -38075,9 +38143,9 @@ var require_event_streams = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/sdkvalidationerror.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/sdkvalidationerror.js
 var require_sdkvalidationerror = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/sdkvalidationerror.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/sdkvalidationerror.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -38187,9 +38255,9 @@ ${pre}${str}`;
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/schemas.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/schemas.js
 var require_schemas = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/schemas.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/schemas.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.parse = parse2;
@@ -38236,9 +38304,9 @@ var require_schemas = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/matchers.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/matchers.js
 var require_matchers = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/matchers.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/matchers.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.jsonErr = jsonErr;
@@ -38426,9 +38494,9 @@ var require_matchers = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/security.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/security.js
 var require_security = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/security.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/security.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.SecurityError = exports2.SecurityErrorCode = void 0;
@@ -38561,9 +38629,9 @@ var require_security = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/primitives.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/primitives.js
 var require_primitives = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/lib/primitives.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/lib/primitives.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.invariant = invariant;
@@ -38650,9 +38718,9 @@ var require_primitives = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/imageurl.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/imageurl.js
 var require_imageurl = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/imageurl.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/imageurl.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -38709,9 +38777,9 @@ var require_imageurl = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/imageurlchunk.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/imageurlchunk.js
 var require_imageurlchunk = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/imageurlchunk.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/imageurlchunk.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -38803,9 +38871,9 @@ var require_imageurlchunk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/referencechunk.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/referencechunk.js
 var require_referencechunk = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/referencechunk.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/referencechunk.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -38881,9 +38949,9 @@ var require_referencechunk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/textchunk.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/textchunk.js
 var require_textchunk = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/textchunk.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/textchunk.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -38950,9 +39018,9 @@ var require_textchunk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/contentchunk.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/contentchunk.js
 var require_contentchunk = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/contentchunk.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/contentchunk.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39022,9 +39090,9 @@ var require_contentchunk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/functioncall.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/functioncall.js
 var require_functioncall = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/functioncall.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/functioncall.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39096,9 +39164,9 @@ var require_functioncall = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/enums.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/enums.js
 var require_enums = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/enums.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/enums.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.catchUnrecognizedEnum = catchUnrecognizedEnum;
@@ -39108,9 +39176,9 @@ var require_enums = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/tooltypes.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/tooltypes.js
 var require_tooltypes = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/tooltypes.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/tooltypes.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39162,9 +39230,9 @@ var require_tooltypes = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolcall.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolcall.js
 var require_toolcall = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolcall.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolcall.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39225,9 +39293,9 @@ var require_toolcall = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/assistantmessage.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/assistantmessage.js
 var require_assistantmessage = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/assistantmessage.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/assistantmessage.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39324,9 +39392,9 @@ var require_assistantmessage = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/responseformats.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/responseformats.js
 var require_responseformats = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/responseformats.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/responseformats.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39372,9 +39440,9 @@ var require_responseformats = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/responseformat.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/responseformat.js
 var require_responseformat = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/responseformat.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/responseformat.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39430,9 +39498,9 @@ var require_responseformat = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/systemmessage.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/systemmessage.js
 var require_systemmessage = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/systemmessage.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/systemmessage.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39515,9 +39583,9 @@ var require_systemmessage = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/function.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/function.js
 var require_function = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/function.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/function.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39576,9 +39644,9 @@ var require_function = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/tool.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/tool.js
 var require_tool = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/tool.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/tool.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39637,9 +39705,9 @@ var require_tool = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/functionname.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/functionname.js
 var require_functionname = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/functionname.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/functionname.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39694,9 +39762,9 @@ var require_functionname = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolchoice.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolchoice.js
 var require_toolchoice = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolchoice.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolchoice.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39755,9 +39823,9 @@ var require_toolchoice = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolchoiceenum.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolchoiceenum.js
 var require_toolchoiceenum = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolchoiceenum.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolchoiceenum.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39805,9 +39873,9 @@ var require_toolchoiceenum = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolmessage.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolmessage.js
 var require_toolmessage = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/toolmessage.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/toolmessage.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39903,9 +39971,9 @@ var require_toolmessage = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/usermessage.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/usermessage.js
 var require_usermessage = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/usermessage.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/usermessage.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -39988,9 +40056,9 @@ var require_usermessage = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/agentscompletionrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/agentscompletionrequest.js
 var require_agentscompletionrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/agentscompletionrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/agentscompletionrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40188,9 +40256,9 @@ var require_agentscompletionrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/agentscompletionstreamrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/agentscompletionstreamrequest.js
 var require_agentscompletionstreamrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/agentscompletionstreamrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/agentscompletionstreamrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40388,9 +40456,9 @@ var require_agentscompletionstreamrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/apiendpoint.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/apiendpoint.js
 var require_apiendpoint = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/apiendpoint.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/apiendpoint.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40446,9 +40514,9 @@ var require_apiendpoint = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/archiveftmodelout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/archiveftmodelout.js
 var require_archiveftmodelout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/archiveftmodelout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/archiveftmodelout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40517,9 +40585,9 @@ var require_archiveftmodelout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/modelcapabilities.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/modelcapabilities.js
 var require_modelcapabilities = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/modelcapabilities.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/modelcapabilities.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40597,9 +40665,9 @@ var require_modelcapabilities = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/basemodelcard.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/basemodelcard.js
 var require_basemodelcard = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/basemodelcard.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/basemodelcard.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40700,9 +40768,9 @@ var require_basemodelcard = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batcherror.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batcherror.js
 var require_batcherror = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batcherror.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batcherror.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40759,9 +40827,9 @@ var require_batcherror = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobin.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobin.js
 var require_batchjobin = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobin.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobin.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40836,9 +40904,9 @@ var require_batchjobin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobstatus.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobstatus.js
 var require_batchjobstatus = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobstatus.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobstatus.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -40889,9 +40957,9 @@ var require_batchjobstatus = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobout.js
 var require_batchjobout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41017,9 +41085,9 @@ var require_batchjobout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobsout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobsout.js
 var require_batchjobsout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/batchjobsout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/batchjobsout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41089,9 +41157,9 @@ var require_batchjobsout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatclassificationrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatclassificationrequest.js
 var require_chatclassificationrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatclassificationrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatclassificationrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41374,9 +41442,9 @@ var require_chatclassificationrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionchoice.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionchoice.js
 var require_chatcompletionchoice = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionchoice.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionchoice.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41466,9 +41534,9 @@ var require_chatcompletionchoice = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionrequest.js
 var require_chatcompletionrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41674,9 +41742,9 @@ var require_chatcompletionrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/usageinfo.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/usageinfo.js
 var require_usageinfo = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/usageinfo.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/usageinfo.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41748,9 +41816,9 @@ var require_usageinfo = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionresponse.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionresponse.js
 var require_chatcompletionresponse = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionresponse.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionresponse.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -41817,9 +41885,9 @@ var require_chatcompletionresponse = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionstreamrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionstreamrequest.js
 var require_chatcompletionstreamrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/chatcompletionstreamrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/chatcompletionstreamrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42025,9 +42093,9 @@ var require_chatcompletionstreamrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/metricout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/metricout.js
 var require_metricout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/metricout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/metricout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42099,9 +42167,9 @@ var require_metricout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/checkpointout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/checkpointout.js
 var require_checkpointout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/checkpointout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/checkpointout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42172,9 +42240,9 @@ var require_checkpointout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/classificationobject.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/classificationobject.js
 var require_classificationobject = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/classificationobject.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/classificationobject.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42240,9 +42308,9 @@ var require_classificationobject = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/classificationrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/classificationrequest.js
 var require_classificationrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/classificationrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/classificationrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42323,9 +42391,9 @@ var require_classificationrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/classificationresponse.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/classificationresponse.js
 var require_classificationresponse = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/classificationresponse.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/classificationresponse.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42385,9 +42453,9 @@ var require_classificationresponse = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/deltamessage.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/deltamessage.js
 var require_deltamessage = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/deltamessage.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/deltamessage.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42472,9 +42540,9 @@ var require_deltamessage = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/completionresponsestreamchoice.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/completionresponsestreamchoice.js
 var require_completionresponsestreamchoice = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/completionresponsestreamchoice.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/completionresponsestreamchoice.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42563,9 +42631,9 @@ var require_completionresponsestreamchoice = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/completionchunk.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/completionchunk.js
 var require_completionchunk = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/completionchunk.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/completionchunk.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42632,9 +42700,9 @@ var require_completionchunk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/completionevent.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/completionevent.js
 var require_completionevent = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/completionevent.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/completionevent.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42700,9 +42768,9 @@ var require_completionevent = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/deletefileout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/deletefileout.js
 var require_deletefileout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/deletefileout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/deletefileout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42761,9 +42829,9 @@ var require_deletefileout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/deletemodelout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/deletemodelout.js
 var require_deletemodelout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/deletemodelout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/deletemodelout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42822,9 +42890,9 @@ var require_deletemodelout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/eventout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/eventout.js
 var require_eventout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/eventout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/eventout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42892,9 +42960,9 @@ var require_eventout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/githubrepositoryout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/githubrepositoryout.js
 var require_githubrepositoryout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/githubrepositoryout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/githubrepositoryout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -42978,9 +43046,9 @@ var require_githubrepositoryout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobmetadataout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobmetadataout.js
 var require_jobmetadataout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobmetadataout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobmetadataout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43066,9 +43134,9 @@ var require_jobmetadataout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/trainingparameters.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/trainingparameters.js
 var require_trainingparameters = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/trainingparameters.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/trainingparameters.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43154,9 +43222,9 @@ var require_trainingparameters = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/wandbintegrationout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/wandbintegrationout.js
 var require_wandbintegrationout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/wandbintegrationout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/wandbintegrationout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43236,9 +43304,9 @@ var require_wandbintegrationout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/detailedjobout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/detailedjobout.js
 var require_detailedjobout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/detailedjobout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/detailedjobout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43417,9 +43485,9 @@ var require_detailedjobout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/embeddingrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/embeddingrequest.js
 var require_embeddingrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/embeddingrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/embeddingrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43504,9 +43572,9 @@ var require_embeddingrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/embeddingresponsedata.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/embeddingresponsedata.js
 var require_embeddingresponsedata = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/embeddingresponsedata.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/embeddingresponsedata.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43565,9 +43633,9 @@ var require_embeddingresponsedata = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/embeddingresponse.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/embeddingresponse.js
 var require_embeddingresponse = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/embeddingresponse.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/embeddingresponse.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43632,9 +43700,9 @@ var require_embeddingresponse = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/filepurpose.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/filepurpose.js
 var require_filepurpose = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/filepurpose.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/filepurpose.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43687,9 +43755,9 @@ var require_filepurpose = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/sampletype.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/sampletype.js
 var require_sampletype = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/sampletype.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/sampletype.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43745,9 +43813,9 @@ var require_sampletype = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/source.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/source.js
 var require_source2 = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/source.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/source.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43801,9 +43869,9 @@ var require_source2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fileschema.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fileschema.js
 var require_fileschema = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fileschema.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fileschema.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43890,9 +43958,9 @@ var require_fileschema = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/filesignedurl.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/filesignedurl.js
 var require_filesignedurl = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/filesignedurl.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/filesignedurl.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -43947,9 +44015,9 @@ var require_filesignedurl = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fimcompletionrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fimcompletionrequest.js
 var require_fimcompletionrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fimcompletionrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fimcompletionrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44052,9 +44120,9 @@ var require_fimcompletionrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fimcompletionresponse.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fimcompletionresponse.js
 var require_fimcompletionresponse = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fimcompletionresponse.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fimcompletionresponse.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44121,9 +44189,9 @@ var require_fimcompletionresponse = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fimcompletionstreamrequest.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fimcompletionstreamrequest.js
 var require_fimcompletionstreamrequest = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/fimcompletionstreamrequest.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/fimcompletionstreamrequest.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44226,9 +44294,9 @@ var require_fimcompletionstreamrequest = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/ftmodelcapabilitiesout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/ftmodelcapabilitiesout.js
 var require_ftmodelcapabilitiesout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/ftmodelcapabilitiesout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/ftmodelcapabilitiesout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44304,9 +44372,9 @@ var require_ftmodelcapabilitiesout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/ftmodelcard.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/ftmodelcard.js
 var require_ftmodelcard = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/ftmodelcard.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/ftmodelcard.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44413,9 +44481,9 @@ var require_ftmodelcard = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/ftmodelout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/ftmodelout.js
 var require_ftmodelout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/ftmodelout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/ftmodelout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44514,9 +44582,9 @@ var require_ftmodelout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/githubrepositoryin.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/githubrepositoryin.js
 var require_githubrepositoryin = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/githubrepositoryin.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/githubrepositoryin.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44591,9 +44659,9 @@ var require_githubrepositoryin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/trainingfile.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/trainingfile.js
 var require_trainingfile = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/trainingfile.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/trainingfile.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44659,9 +44727,9 @@ var require_trainingfile = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/trainingparametersin.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/trainingparametersin.js
 var require_trainingparametersin = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/trainingparametersin.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/trainingparametersin.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44747,9 +44815,9 @@ var require_trainingparametersin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/wandbintegration.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/wandbintegration.js
 var require_wandbintegration = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/wandbintegration.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/wandbintegration.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44833,9 +44901,9 @@ var require_wandbintegration = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobin.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobin.js
 var require_jobin = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobin.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobin.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -44951,9 +45019,9 @@ var require_jobin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobout.js
 var require_jobout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45126,9 +45194,9 @@ var require_jobout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobsout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobsout.js
 var require_jobsout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/jobsout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/jobsout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45198,9 +45266,9 @@ var require_jobsout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/legacyjobmetadataout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/legacyjobmetadataout.js
 var require_legacyjobmetadataout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/legacyjobmetadataout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/legacyjobmetadataout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45308,9 +45376,9 @@ var require_legacyjobmetadataout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/listfilesout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/listfilesout.js
 var require_listfilesout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/listfilesout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/listfilesout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45370,9 +45438,9 @@ var require_listfilesout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/modellist.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/modellist.js
 var require_modellist = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/modellist.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/modellist.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45474,9 +45542,9 @@ var require_modellist = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/retrievefileout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/retrievefileout.js
 var require_retrievefileout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/retrievefileout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/retrievefileout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45565,9 +45633,9 @@ var require_retrievefileout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/security.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/security.js
 var require_security2 = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/security.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/security.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45631,9 +45699,9 @@ var require_security2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/unarchiveftmodelout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/unarchiveftmodelout.js
 var require_unarchiveftmodelout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/unarchiveftmodelout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/unarchiveftmodelout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45702,9 +45770,9 @@ var require_unarchiveftmodelout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/updateftmodelin.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/updateftmodelin.js
 var require_updateftmodelin = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/updateftmodelin.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/updateftmodelin.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45761,9 +45829,9 @@ var require_updateftmodelin = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/uploadfileout.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/uploadfileout.js
 var require_uploadfileout = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/uploadfileout.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/uploadfileout.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45850,9 +45918,9 @@ var require_uploadfileout = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/validationerror.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/validationerror.js
 var require_validationerror = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/validationerror.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/validationerror.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -45926,9 +45994,9 @@ var require_validationerror = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/index.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/index.js
 var require_components = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/components/index.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/components/index.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46033,9 +46101,9 @@ var require_components = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/httpvalidationerror.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/httpvalidationerror.js
 var require_httpvalidationerror = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/httpvalidationerror.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/httpvalidationerror.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46095,9 +46163,9 @@ var require_httpvalidationerror = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/index.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/index.js
 var require_errors2 = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/errors/index.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/errors/index.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46123,9 +46191,9 @@ var require_errors2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/agentsComplete.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/agentsComplete.js
 var require_agentsComplete = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/agentsComplete.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/agentsComplete.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46220,9 +46288,9 @@ var require_agentsComplete = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/agentsStream.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/agentsStream.js
 var require_agentsStream = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/agentsStream.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/agentsStream.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46327,9 +46395,9 @@ var require_agentsStream = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/agents.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/agents.js
 var require_agents = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/agents.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/agents.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Agents = void 0;
@@ -46358,9 +46426,9 @@ var require_agents = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/deletemodelv1modelsmodeliddelete.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/deletemodelv1modelsmodeliddelete.js
 var require_deletemodelv1modelsmodeliddelete = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/deletemodelv1modelsmodeliddelete.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/deletemodelv1modelsmodeliddelete.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46424,9 +46492,9 @@ var require_deletemodelv1modelsmodeliddelete = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdeletefile.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdeletefile.js
 var require_filesapiroutesdeletefile = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdeletefile.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdeletefile.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46490,9 +46558,9 @@ var require_filesapiroutesdeletefile = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdownloadfile.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdownloadfile.js
 var require_filesapiroutesdownloadfile = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdownloadfile.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesdownloadfile.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46556,9 +46624,9 @@ var require_filesapiroutesdownloadfile = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesgetsignedurl.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesgetsignedurl.js
 var require_filesapiroutesgetsignedurl = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesgetsignedurl.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesgetsignedurl.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46624,9 +46692,9 @@ var require_filesapiroutesgetsignedurl = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapirouteslistfiles.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapirouteslistfiles.js
 var require_filesapirouteslistfiles = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapirouteslistfiles.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapirouteslistfiles.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46703,9 +46771,9 @@ var require_filesapirouteslistfiles = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesretrievefile.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesretrievefile.js
 var require_filesapiroutesretrievefile = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesretrievefile.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesretrievefile.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46769,9 +46837,9 @@ var require_filesapiroutesretrievefile = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/blobs.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/blobs.js
 var require_blobs = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/blobs.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/blobs.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46827,9 +46895,9 @@ var require_blobs = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesuploadfile.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesuploadfile.js
 var require_filesapiroutesuploadfile = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/filesapiroutesuploadfile.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/filesapiroutesuploadfile.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46919,9 +46987,9 @@ var require_filesapiroutesuploadfile = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchcancelbatchjob.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchcancelbatchjob.js
 var require_jobsapiroutesbatchcancelbatchjob = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchcancelbatchjob.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchcancelbatchjob.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -46985,9 +47053,9 @@ var require_jobsapiroutesbatchcancelbatchjob = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjob.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjob.js
 var require_jobsapiroutesbatchgetbatchjob = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjob.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjob.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47051,9 +47119,9 @@ var require_jobsapiroutesbatchgetbatchjob = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjobs.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjobs.js
 var require_jobsapiroutesbatchgetbatchjobs = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjobs.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesbatchgetbatchjobs.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47134,9 +47202,9 @@ var require_jobsapiroutesbatchgetbatchjobs = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningarchivefinetunedmodel.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningarchivefinetunedmodel.js
 var require_jobsapiroutesfinetuningarchivefinetunedmodel = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningarchivefinetunedmodel.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningarchivefinetunedmodel.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47200,9 +47268,9 @@ var require_jobsapiroutesfinetuningarchivefinetunedmodel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcancelfinetuningjob.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcancelfinetuningjob.js
 var require_jobsapiroutesfinetuningcancelfinetuningjob = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcancelfinetuningjob.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcancelfinetuningjob.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47266,9 +47334,9 @@ var require_jobsapiroutesfinetuningcancelfinetuningjob = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcreatefinetuningjob.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcreatefinetuningjob.js
 var require_jobsapiroutesfinetuningcreatefinetuningjob = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcreatefinetuningjob.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningcreatefinetuningjob.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47326,9 +47394,9 @@ var require_jobsapiroutesfinetuningcreatefinetuningjob = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjob.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjob.js
 var require_jobsapiroutesfinetuninggetfinetuningjob = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjob.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjob.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47392,9 +47460,9 @@ var require_jobsapiroutesfinetuninggetfinetuningjob = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjobs.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjobs.js
 var require_jobsapiroutesfinetuninggetfinetuningjobs = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjobs.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuninggetfinetuningjobs.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47501,9 +47569,9 @@ var require_jobsapiroutesfinetuninggetfinetuningjobs = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningstartfinetuningjob.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningstartfinetuningjob.js
 var require_jobsapiroutesfinetuningstartfinetuningjob = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningstartfinetuningjob.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningstartfinetuningjob.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47567,9 +47635,9 @@ var require_jobsapiroutesfinetuningstartfinetuningjob = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningunarchivefinetunedmodel.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningunarchivefinetunedmodel.js
 var require_jobsapiroutesfinetuningunarchivefinetunedmodel = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningunarchivefinetunedmodel.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningunarchivefinetunedmodel.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47633,9 +47701,9 @@ var require_jobsapiroutesfinetuningunarchivefinetunedmodel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningupdatefinetunedmodel.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningupdatefinetunedmodel.js
 var require_jobsapiroutesfinetuningupdatefinetunedmodel = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningupdatefinetunedmodel.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/jobsapiroutesfinetuningupdatefinetunedmodel.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47704,9 +47772,9 @@ var require_jobsapiroutesfinetuningupdatefinetunedmodel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/retrievemodelv1modelsmodelidget.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/retrievemodelv1modelsmodelidget.js
 var require_retrievemodelv1modelsmodelidget = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/retrievemodelv1modelsmodelidget.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/retrievemodelv1modelsmodelidget.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47800,9 +47868,9 @@ var require_retrievemodelv1modelsmodelidget = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/index.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/index.js
 var require_operations = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/models/operations/index.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/models/operations/index.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47843,9 +47911,9 @@ var require_operations = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsCancel.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsCancel.js
 var require_batchJobsCancel = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsCancel.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsCancel.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -47942,9 +48010,9 @@ var require_batchJobsCancel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsCreate.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsCreate.js
 var require_batchJobsCreate = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsCreate.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsCreate.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48035,9 +48103,9 @@ var require_batchJobsCreate = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsGet.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsGet.js
 var require_batchJobsGet = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsGet.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsGet.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48134,9 +48202,9 @@ var require_batchJobsGet = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsList.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsList.js
 var require_batchJobsList = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/batchJobsList.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/batchJobsList.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48237,9 +48305,9 @@ var require_batchJobsList = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/mistraljobs.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/mistraljobs.js
 var require_mistraljobs = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/mistraljobs.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/mistraljobs.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.MistralJobs = void 0;
@@ -48291,9 +48359,9 @@ var require_mistraljobs = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/batch.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/batch.js
 var require_batch = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/batch.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/batch.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Batch = void 0;
@@ -48309,9 +48377,9 @@ var require_batch = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/chatComplete.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/chatComplete.js
 var require_chatComplete = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/chatComplete.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/chatComplete.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48406,9 +48474,9 @@ var require_chatComplete = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/chatStream.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/chatStream.js
 var require_chatStream = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/chatStream.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/chatStream.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48513,9 +48581,9 @@ var require_chatStream = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/chat.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/chat.js
 var require_chat = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/chat.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/chat.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Chat = void 0;
@@ -48544,9 +48612,9 @@ var require_chat = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/classifiersModerate.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/classifiersModerate.js
 var require_classifiersModerate = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/classifiersModerate.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/classifiersModerate.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48641,9 +48709,9 @@ var require_classifiersModerate = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/classifiersModerateChat.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/classifiersModerateChat.js
 var require_classifiersModerateChat = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/classifiersModerateChat.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/classifiersModerateChat.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48738,9 +48806,9 @@ var require_classifiersModerateChat = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/classifiers.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/classifiers.js
 var require_classifiers = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/classifiers.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/classifiers.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Classifiers = void 0;
@@ -48766,9 +48834,9 @@ var require_classifiers = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/embeddingsCreate.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/embeddingsCreate.js
 var require_embeddingsCreate = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/embeddingsCreate.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/embeddingsCreate.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48863,9 +48931,9 @@ var require_embeddingsCreate = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/embeddings.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/embeddings.js
 var require_embeddings = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/embeddings.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/embeddings.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Embeddings = void 0;
@@ -48887,9 +48955,9 @@ var require_embeddings = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesDelete.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesDelete.js
 var require_filesDelete = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesDelete.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesDelete.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -48986,9 +49054,9 @@ var require_filesDelete = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesDownload.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesDownload.js
 var require_filesDownload = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesDownload.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesDownload.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49085,9 +49153,9 @@ var require_filesDownload = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesGetSignedUrl.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesGetSignedUrl.js
 var require_filesGetSignedUrl = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesGetSignedUrl.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesGetSignedUrl.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49188,9 +49256,9 @@ var require_filesGetSignedUrl = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesList.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesList.js
 var require_filesList = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesList.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesList.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49290,9 +49358,9 @@ var require_filesList = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesRetrieve.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesRetrieve.js
 var require_filesRetrieve = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesRetrieve.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesRetrieve.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49389,9 +49457,9 @@ var require_filesRetrieve = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/streams.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/streams.js
 var require_streams = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/types/streams.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/types/streams.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.isReadableStream = isReadableStream;
@@ -49405,9 +49473,9 @@ var require_streams = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesUpload.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesUpload.js
 var require_filesUpload = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/filesUpload.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/filesUpload.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49512,9 +49580,9 @@ var require_filesUpload = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/files.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/files.js
 var require_files2 = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/files.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/files.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Files = void 0;
@@ -49587,9 +49655,9 @@ var require_files2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fimComplete.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fimComplete.js
 var require_fimComplete = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fimComplete.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fimComplete.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49684,9 +49752,9 @@ var require_fimComplete = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fimStream.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fimStream.js
 var require_fimStream = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fimStream.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fimStream.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49791,9 +49859,9 @@ var require_fimStream = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/fim.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/fim.js
 var require_fim = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/fim.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/fim.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Fim = void 0;
@@ -49825,9 +49893,9 @@ var require_fim = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCancel.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCancel.js
 var require_fineTuningJobsCancel = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCancel.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCancel.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -49924,9 +49992,9 @@ var require_fineTuningJobsCancel = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCreate.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCreate.js
 var require_fineTuningJobsCreate = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCreate.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsCreate.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50018,9 +50086,9 @@ var require_fineTuningJobsCreate = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsGet.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsGet.js
 var require_fineTuningJobsGet = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsGet.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsGet.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50117,9 +50185,9 @@ var require_fineTuningJobsGet = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsList.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsList.js
 var require_fineTuningJobsList = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsList.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsList.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50222,9 +50290,9 @@ var require_fineTuningJobsList = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsStart.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsStart.js
 var require_fineTuningJobsStart = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/fineTuningJobsStart.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/fineTuningJobsStart.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50321,9 +50389,9 @@ var require_fineTuningJobsStart = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/jobs.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/jobs.js
 var require_jobs = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/jobs.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/jobs.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Jobs = void 0;
@@ -50385,9 +50453,9 @@ var require_jobs = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/finetuning.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/finetuning.js
 var require_finetuning = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/finetuning.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/finetuning.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.FineTuning = void 0;
@@ -50403,9 +50471,9 @@ var require_finetuning = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsArchive.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsArchive.js
 var require_modelsArchive = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsArchive.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsArchive.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50502,9 +50570,9 @@ var require_modelsArchive = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsDelete.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsDelete.js
 var require_modelsDelete = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsDelete.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsDelete.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50605,9 +50673,9 @@ var require_modelsDelete = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsList.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsList.js
 var require_modelsList = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsList.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsList.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50692,9 +50760,9 @@ var require_modelsList = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsRetrieve.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsRetrieve.js
 var require_modelsRetrieve = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsRetrieve.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsRetrieve.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50794,9 +50862,9 @@ var require_modelsRetrieve = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsUnarchive.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsUnarchive.js
 var require_modelsUnarchive = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsUnarchive.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsUnarchive.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50893,9 +50961,9 @@ var require_modelsUnarchive = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsUpdate.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsUpdate.js
 var require_modelsUpdate = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/funcs/modelsUpdate.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/funcs/modelsUpdate.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -50993,9 +51061,9 @@ var require_modelsUpdate = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/models.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/models.js
 var require_models = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/models.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/models.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Models = void 0;
@@ -51067,9 +51135,9 @@ var require_models = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/sdk.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/sdk.js
 var require_sdk = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/sdk/sdk.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/sdk/sdk.js"(exports2) {
     "use strict";
     Object.defineProperty(exports2, "__esModule", { value: true });
     exports2.Mistral = void 0;
@@ -51125,9 +51193,9 @@ var require_sdk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/index.js
+// node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/index.js
 var require_mistralai = __commonJS({
-  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.0/node_modules/@mistralai/mistralai/index.js"(exports2) {
+  "node_modules/.pnpm/@mistralai+mistralai@1.3.5_react-dom@19.0.0_react@19.0.0__react@19.0.0_zod@3.24.1/node_modules/@mistralai/mistralai/index.js"(exports2) {
     "use strict";
     var __createBinding = exports2 && exports2.__createBinding || (Object.create ? function(o, m2, k2, k22) {
       if (k22 === void 0) k22 = k2;
@@ -51177,7 +51245,7 @@ var import_fs = require("fs");
 var import_promises2 = require("fs/promises");
 var import_path = require("path");
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/documents/document.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/documents/document.js
 var Document = class {
   constructor(fields) {
     Object.defineProperty(this, "pageContent", {
@@ -51204,7 +51272,7 @@ var Document = class {
   }
 };
 
-// node_modules/.pnpm/zod@3.24.0/node_modules/zod/lib/index.mjs
+// node_modules/.pnpm/zod@3.24.1/node_modules/zod/lib/index.mjs
 var util;
 (function(util2) {
   util2.assertEqual = (val) => val;
@@ -51359,6 +51427,9 @@ var quotelessJson = (obj) => {
   return json.replace(/"([^"]+)":/g, "$1:");
 };
 var ZodError = class _ZodError extends Error {
+  get errors() {
+    return this.issues;
+  }
   constructor(issues) {
     super();
     this.issues = [];
@@ -51376,9 +51447,6 @@ var ZodError = class _ZodError extends Error {
     }
     this.name = "ZodError";
     this.issues = issues;
-  }
-  get errors() {
-    return this.issues;
   }
   format(_mapper) {
     const mapper = _mapper || function(issue) {
@@ -51590,8 +51658,11 @@ function addIssueToContext(ctx, issueData) {
     path: ctx.path,
     errorMaps: [
       ctx.common.contextualErrorMap,
+      // contextual error map is first priority
       ctx.schemaErrorMap,
+      // then schema-bound map if available
       overrideMap,
+      // then global override map
       overrideMap === errorMap ? void 0 : errorMap
       // then global default map
     ].filter((x2) => !!x2)
@@ -51742,39 +51813,6 @@ function processCreateParams(params) {
   return { errorMap: customMap, description };
 }
 var ZodType = class {
-  constructor(def) {
-    this.spa = this.safeParseAsync;
-    this._def = def;
-    this.parse = this.parse.bind(this);
-    this.safeParse = this.safeParse.bind(this);
-    this.parseAsync = this.parseAsync.bind(this);
-    this.safeParseAsync = this.safeParseAsync.bind(this);
-    this.spa = this.spa.bind(this);
-    this.refine = this.refine.bind(this);
-    this.refinement = this.refinement.bind(this);
-    this.superRefine = this.superRefine.bind(this);
-    this.optional = this.optional.bind(this);
-    this.nullable = this.nullable.bind(this);
-    this.nullish = this.nullish.bind(this);
-    this.array = this.array.bind(this);
-    this.promise = this.promise.bind(this);
-    this.or = this.or.bind(this);
-    this.and = this.and.bind(this);
-    this.transform = this.transform.bind(this);
-    this.brand = this.brand.bind(this);
-    this.default = this.default.bind(this);
-    this.catch = this.catch.bind(this);
-    this.describe = this.describe.bind(this);
-    this.pipe = this.pipe.bind(this);
-    this.readonly = this.readonly.bind(this);
-    this.isNullable = this.isNullable.bind(this);
-    this.isOptional = this.isOptional.bind(this);
-    this["~standard"] = {
-      version: 1,
-      vendor: "zod",
-      validate: (data) => this["~validate"](data)
-    };
-  }
   get description() {
     return this._def.description;
   }
@@ -51839,7 +51877,7 @@ var ZodType = class {
     return handleResult(ctx, result);
   }
   "~validate"(data) {
-    var _a, _b, _c;
+    var _a, _b;
     const ctx = {
       common: {
         issues: [],
@@ -51860,7 +51898,7 @@ var ZodType = class {
           issues: ctx.common.issues
         };
       } catch (err) {
-        if ((_c = (_b = (_a = err) === null || _a === void 0 ? void 0 : _a.message) === null || _b === void 0 ? void 0 : _b.toLowerCase()) === null || _c === void 0 ? void 0 : _c.includes("encountered")) {
+        if ((_b = (_a = err === null || err === void 0 ? void 0 : err.message) === null || _a === void 0 ? void 0 : _a.toLowerCase()) === null || _b === void 0 ? void 0 : _b.includes("encountered")) {
           this["~standard"].async = true;
         }
         ctx.common = {
@@ -51951,6 +51989,39 @@ var ZodType = class {
   }
   superRefine(refinement) {
     return this._refinement(refinement);
+  }
+  constructor(def) {
+    this.spa = this.safeParseAsync;
+    this._def = def;
+    this.parse = this.parse.bind(this);
+    this.safeParse = this.safeParse.bind(this);
+    this.parseAsync = this.parseAsync.bind(this);
+    this.safeParseAsync = this.safeParseAsync.bind(this);
+    this.spa = this.spa.bind(this);
+    this.refine = this.refine.bind(this);
+    this.refinement = this.refinement.bind(this);
+    this.superRefine = this.superRefine.bind(this);
+    this.optional = this.optional.bind(this);
+    this.nullable = this.nullable.bind(this);
+    this.nullish = this.nullish.bind(this);
+    this.array = this.array.bind(this);
+    this.promise = this.promise.bind(this);
+    this.or = this.or.bind(this);
+    this.and = this.and.bind(this);
+    this.transform = this.transform.bind(this);
+    this.brand = this.brand.bind(this);
+    this.default = this.default.bind(this);
+    this.catch = this.catch.bind(this);
+    this.describe = this.describe.bind(this);
+    this.pipe = this.pipe.bind(this);
+    this.readonly = this.readonly.bind(this);
+    this.isNullable = this.isNullable.bind(this);
+    this.isOptional = this.isOptional.bind(this);
+    this["~standard"] = {
+      version: 1,
+      vendor: "zod",
+      validate: (data) => this["~validate"](data)
+    };
   }
   optional() {
     return ZodOptional.create(this, this._def);
@@ -52444,7 +52515,10 @@ var ZodString = class _ZodString extends ZodType {
     return this._addCheck({ kind: "base64", ...errorUtil.errToObj(message) });
   }
   base64url(message) {
-    return this._addCheck({ kind: "base64url", ...errorUtil.errToObj(message) });
+    return this._addCheck({
+      kind: "base64url",
+      ...errorUtil.errToObj(message)
+    });
   }
   jwt(options) {
     return this._addCheck({ kind: "jwt", ...errorUtil.errToObj(options) });
@@ -52545,8 +52619,7 @@ var ZodString = class _ZodString extends ZodType {
     });
   }
   /**
-   * @deprecated Use z.string().min(1) instead.
-   * @see {@link ZodString.min}
+   * Equivalent to `.min(1)`
    */
   nonempty(message) {
     return this.min(1, errorUtil.errToObj(message));
@@ -55243,7 +55316,7 @@ var z = /* @__PURE__ */ Object.freeze({
   ZodError
 });
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/base.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/base.js
 var import_p_retry3 = __toESM(require_p_retry(), 1);
 
 // node_modules/.pnpm/uuid@10.0.0/node_modules/uuid/dist/esm-node/regex.js
@@ -55302,18 +55375,18 @@ function v4(options, buf, offset) {
 }
 var v4_default = v4;
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/async_caller.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/async_caller.js
 var import_p_retry = __toESM(require_p_retry(), 1);
 var import_p_queue = __toESM(require_dist(), 1);
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/singletons/fetch.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/singletons/fetch.js
 var DEFAULT_FETCH_IMPLEMENTATION = (...args) => fetch(...args);
 var LANGSMITH_FETCH_IMPLEMENTATION_KEY = Symbol.for("ls:fetch_implementation");
 var _getFetchImplementation = () => {
   return globalThis[LANGSMITH_FETCH_IMPLEMENTATION_KEY] ?? DEFAULT_FETCH_IMPLEMENTATION;
 };
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/async_caller.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/async_caller.js
 var STATUS_NO_RETRY = [
   400,
   // Bad Request
@@ -55428,7 +55501,7 @@ var AsyncCaller = class {
   }
 };
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/messages.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/messages.js
 function isLangChainMessage(message) {
   return typeof message?._getType === "function";
 }
@@ -55443,7 +55516,7 @@ function convertLangChainMessageToExample(message) {
   return converted;
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/_uuid.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/_uuid.js
 function assertUuid(str, which) {
   if (!validate_default(str)) {
     const msg = which !== void 0 ? `Invalid UUID for ${which}: ${str}` : `Invalid UUID: ${str}`;
@@ -55452,7 +55525,7 @@ function assertUuid(str, which) {
   return str;
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/warn.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/warn.js
 var warnedMessages = {};
 function warnOnce(message) {
   if (!warnedMessages[message]) {
@@ -55461,7 +55534,7 @@ function warnOnce(message) {
   }
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/prompts.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/prompts.js
 var import_semver = __toESM(require_semver2(), 1);
 function parsePromptIdentifier(identifier) {
   if (!identifier || identifier.split("/").length > 2 || identifier.startsWith("/") || identifier.endsWith("/") || identifier.split(":").length > 2) {
@@ -55483,7 +55556,7 @@ function parsePromptIdentifier(identifier) {
   }
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/error.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/error.js
 var LangSmithConflictError = class extends Error {
   constructor(message) {
     super(message);
@@ -55506,7 +55579,7 @@ async function raiseForStatus(response, context, consume) {
   throw new Error(fullMessage);
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/fast-safe-stringify/index.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/fast-safe-stringify/index.js
 var LIMIT_REPLACE_NODE = "[...]";
 var CIRCULAR_REPLACE_NODE = { result: "[Circular]" };
 var arr = [];
@@ -55618,7 +55691,7 @@ function replaceGetterValues(replacer) {
   };
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/client.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/client.js
 function mergeRuntimeEnvIntoRunCreate(run) {
   const runtimeEnv = getRuntimeEnvironment();
   const envVars = getLangChainEnvVarsMetadata();
@@ -56079,6 +56152,10 @@ var Client = class _Client {
     const serverInfo = await this._ensureServerInfo();
     return this.batchSizeBytesLimit ?? serverInfo.batch_ingest_config?.size_limit_bytes ?? DEFAULT_BATCH_SIZE_LIMIT_BYTES;
   }
+  async _getMultiPartSupport() {
+    const serverInfo = await this._ensureServerInfo();
+    return serverInfo.instance_flags?.dataset_examples_multipart_enabled ?? false;
+  }
   drainAutoBatchQueue(batchSizeLimit) {
     while (this.autoBatchQueue.items.length > 0) {
       const [batch, done] = this.autoBatchQueue.pop(batchSizeLimit);
@@ -56356,7 +56433,15 @@ var Client = class _Client {
           const attachments2 = allAttachments[payload.id];
           if (attachments2) {
             delete allAttachments[payload.id];
-            for (const [name, [contentType, content]] of Object.entries(attachments2)) {
+            for (const [name, attachment] of Object.entries(attachments2)) {
+              let contentType;
+              let content;
+              if (Array.isArray(attachment)) {
+                [contentType, content] = attachment;
+              } else {
+                contentType = attachment.mimeType;
+                content = attachment.data;
+              }
               if (name.includes(".")) {
                 console.warn(`Skipping attachment '${name}' for run ${payload.id}: Invalid attachment name. Attachment names must not contain periods ('.'). Please rename the attachment and try again.`);
                 continue;
@@ -57400,9 +57485,20 @@ Message: ${result.detail.join("\n")}`);
   async readExample(exampleId) {
     assertUuid(exampleId);
     const path = `/examples/${exampleId}`;
-    return await this._get(path);
+    const rawExample = await this._get(path);
+    const { attachment_urls, ...rest } = rawExample;
+    const example = rest;
+    if (attachment_urls) {
+      example.attachments = Object.entries(attachment_urls).reduce((acc, [key, value]) => {
+        acc[key.slice("attachment.".length)] = {
+          presigned_url: value.presigned_url
+        };
+        return acc;
+      }, {});
+    }
+    return example;
   }
-  async *listExamples({ datasetId, datasetName, exampleIds, asOf, splits, inlineS3Urls, metadata, limit, offset, filter } = {}) {
+  async *listExamples({ datasetId, datasetName, exampleIds, asOf, splits, inlineS3Urls, metadata, limit, offset, filter, includeAttachments } = {}) {
     let datasetId_;
     if (datasetId !== void 0 && datasetName !== void 0) {
       throw new Error("Must provide either datasetName or datasetId, not both");
@@ -57444,9 +57540,22 @@ Message: ${result.detail.join("\n")}`);
     if (filter !== void 0) {
       params.append("filter", filter);
     }
+    if (includeAttachments === true) {
+      ["attachment_urls", "outputs", "metadata"].forEach((field) => params.append("select", field));
+    }
     let i = 0;
-    for await (const examples of this._getPaginated("/examples", params)) {
-      for (const example of examples) {
+    for await (const rawExamples of this._getPaginated("/examples", params)) {
+      for (const rawExample of rawExamples) {
+        const { attachment_urls, ...rest } = rawExample;
+        const example = rest;
+        if (attachment_urls) {
+          example.attachments = Object.entries(attachment_urls).reduce((acc, [key, value]) => {
+            acc[key.slice("attachment.".length)] = {
+              presigned_url: value.presigned_url
+            };
+            return acc;
+          }, {});
+        }
         yield example;
         i++;
       }
@@ -58092,6 +58201,132 @@ ${detail}`);
     const result = await response.json();
     return this._getPromptUrl(`${owner}/${promptName}${result.commit_hash ? `:${result.commit_hash}` : ""}`);
   }
+  /**
+   * Update examples with attachments using multipart form data.
+   * @param updates List of ExampleUpdateWithAttachments objects to upsert
+   * @returns Promise with the update response
+   */
+  async updateExamplesMultipart(datasetId, updates = []) {
+    if (!await this._getMultiPartSupport()) {
+      throw new Error("Your LangSmith version does not allow using the multipart examples endpoint, please update to the latest version.");
+    }
+    const formData = new FormData();
+    for (const example of updates) {
+      const exampleId = example.id;
+      const exampleBody = {
+        ...example.metadata && { metadata: example.metadata },
+        ...example.split && { split: example.split }
+      };
+      const stringifiedExample = stringify(exampleBody);
+      const exampleBlob = new Blob([stringifiedExample], {
+        type: "application/json"
+      });
+      formData.append(exampleId, exampleBlob);
+      if (example.inputs) {
+        const stringifiedInputs = stringify(example.inputs);
+        const inputsBlob = new Blob([stringifiedInputs], {
+          type: "application/json"
+        });
+        formData.append(`${exampleId}.inputs`, inputsBlob);
+      }
+      if (example.outputs) {
+        const stringifiedOutputs = stringify(example.outputs);
+        const outputsBlob = new Blob([stringifiedOutputs], {
+          type: "application/json"
+        });
+        formData.append(`${exampleId}.outputs`, outputsBlob);
+      }
+      if (example.attachments) {
+        for (const [name, attachment] of Object.entries(example.attachments)) {
+          let mimeType;
+          let data;
+          if (Array.isArray(attachment)) {
+            [mimeType, data] = attachment;
+          } else {
+            mimeType = attachment.mimeType;
+            data = attachment.data;
+          }
+          const attachmentBlob = new Blob([data], {
+            type: `${mimeType}; length=${data.byteLength}`
+          });
+          formData.append(`${exampleId}.attachment.${name}`, attachmentBlob);
+        }
+      }
+      if (example.attachments_operations) {
+        const stringifiedAttachmentsOperations = stringify(example.attachments_operations);
+        const attachmentsOperationsBlob = new Blob([stringifiedAttachmentsOperations], {
+          type: "application/json"
+        });
+        formData.append(`${exampleId}.attachments_operations`, attachmentsOperationsBlob);
+      }
+    }
+    const response = await this.caller.call(_getFetchImplementation(), `${this.apiUrl}/v1/platform/datasets/${datasetId}/examples`, {
+      method: "PATCH",
+      headers: this.headers,
+      body: formData
+    });
+    const result = await response.json();
+    return result;
+  }
+  /**
+   * Upload examples with attachments using multipart form data.
+   * @param uploads List of ExampleUploadWithAttachments objects to upload
+   * @returns Promise with the upload response
+   */
+  async uploadExamplesMultipart(datasetId, uploads = []) {
+    if (!await this._getMultiPartSupport()) {
+      throw new Error("Your LangSmith version does not allow using the multipart examples endpoint, please update to the latest version.");
+    }
+    const formData = new FormData();
+    for (const example of uploads) {
+      const exampleId = (example.id ?? v4_default()).toString();
+      const exampleBody = {
+        created_at: example.created_at,
+        ...example.metadata && { metadata: example.metadata },
+        ...example.split && { split: example.split }
+      };
+      const stringifiedExample = stringify(exampleBody);
+      const exampleBlob = new Blob([stringifiedExample], {
+        type: "application/json"
+      });
+      formData.append(exampleId, exampleBlob);
+      const stringifiedInputs = stringify(example.inputs);
+      const inputsBlob = new Blob([stringifiedInputs], {
+        type: "application/json"
+      });
+      formData.append(`${exampleId}.inputs`, inputsBlob);
+      if (example.outputs) {
+        const stringifiedOutputs = stringify(example.outputs);
+        const outputsBlob = new Blob([stringifiedOutputs], {
+          type: "application/json"
+        });
+        formData.append(`${exampleId}.outputs`, outputsBlob);
+      }
+      if (example.attachments) {
+        for (const [name, attachment] of Object.entries(example.attachments)) {
+          let mimeType;
+          let data;
+          if (Array.isArray(attachment)) {
+            [mimeType, data] = attachment;
+          } else {
+            mimeType = attachment.mimeType;
+            data = attachment.data;
+          }
+          const attachmentBlob = new Blob([data], {
+            type: `${mimeType}; length=${data.byteLength}`
+          });
+          formData.append(`${exampleId}.attachment.${name}`, attachmentBlob);
+        }
+      }
+    }
+    const response = await this.caller.call(_getFetchImplementation(), `${this.apiUrl}/v1/platform/datasets/${datasetId}/examples`, {
+      method: "POST",
+      headers: this.headers,
+      body: formData
+    });
+    const result = await response.json();
+    return result;
+  }
   async updatePrompt(promptIdentifier, options) {
     if (!await this.promptExists(promptIdentifier)) {
       throw new Error("Prompt does not exist, you must create it first.");
@@ -58295,10 +58530,10 @@ ${detail}`);
   }
 };
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/index.js
-var __version__ = "0.2.11";
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/index.js
+var __version__ = "0.2.13";
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/utils/env.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/utils/env.js
 var globalEnv;
 var isBrowser = () => typeof window !== "undefined" && typeof window.document !== "undefined";
 var isWebWorker = () => typeof globalThis === "object" && globalThis.constructor && globalThis.constructor.name === "DedicatedWorkerGlobalScope";
@@ -58428,7 +58663,7 @@ function getShas() {
   return shas;
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/env.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/env.js
 var isTracingEnabled = (tracingEnabled) => {
   if (tracingEnabled !== void 0) {
     return tracingEnabled;
@@ -58437,10 +58672,10 @@ var isTracingEnabled = (tracingEnabled) => {
   return !!envVars.find((envVar) => getLangSmithEnvironmentVariable(envVar) === "true");
 };
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/singletons/constants.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/singletons/constants.js
 var _LC_CONTEXT_VARIABLES_KEY = Symbol.for("lc:context_variables");
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/run_trees.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/run_trees.js
 function stripNonAlphanumeric(input) {
   return input.replace(/[-:.]/g, "");
 }
@@ -58922,7 +59157,7 @@ function isRunnableConfigLike(x2) {
   containsLangChainTracerLike(x2.callbacks));
 }
 
-// node_modules/.pnpm/langsmith@0.2.11_openai@4.76.0_zod@3.24.0_/node_modules/langsmith/dist/singletons/traceable.js
+// node_modules/.pnpm/langsmith@0.2.13_openai@4.76.3_zod@3.24.1_/node_modules/langsmith/dist/singletons/traceable.js
 var MockAsyncLocalStorage = class {
   getStore() {
     return void 0;
@@ -58960,7 +59195,7 @@ function isTraceableFunction(x2) {
   return typeof x2 === "function" && "langsmith:traceable" in x2;
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/fast-json-patch/src/core.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/fast-json-patch/src/core.js
 var core_exports = {};
 __export(core_exports, {
   JsonPatchError: () => JsonPatchError,
@@ -58974,7 +59209,7 @@ __export(core_exports, {
   validator: () => validator
 });
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/fast-json-patch/src/helpers.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/fast-json-patch/src/helpers.js
 var _hasOwnProperty = Object.prototype.hasOwnProperty;
 function hasOwnProperty(obj, key) {
   return _hasOwnProperty.call(obj, key);
@@ -59102,7 +59337,7 @@ var PatchError = class extends Error {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/fast-json-patch/src/core.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/fast-json-patch/src/core.js
 var JsonPatchError = PatchError;
 var deepClone = _deepClone;
 var objOps = {
@@ -59419,7 +59654,7 @@ function _areEquals(a2, b2) {
   return a2 !== a2 && b2 !== b2;
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/fast-json-patch/index.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/fast-json-patch/index.js
 var fast_json_patch_default = {
   ...core_exports,
   // ...duplex,
@@ -59429,7 +59664,7 @@ var fast_json_patch_default = {
   unescapePathComponent
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/load/map_keys.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/load/map_keys.js
 var import_decamelize = __toESM(require_decamelize(), 1);
 var import_camelcase = __toESM(require_camelcase(), 1);
 function keyToJson(key, map) {
@@ -59445,7 +59680,7 @@ function mapKeys(fields, mapper, map) {
   return mapped;
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/load/serializable.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/load/serializable.js
 function shallowCopy(obj) {
   return Array.isArray(obj) ? [...obj] : { ...obj };
 }
@@ -59598,7 +59833,7 @@ var Serializable = class _Serializable {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/env.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/env.js
 var isBrowser2 = () => typeof window !== "undefined" && typeof window.document !== "undefined";
 var isWebWorker2 = () => typeof globalThis === "object" && globalThis.constructor && globalThis.constructor.name === "DedicatedWorkerGlobalScope";
 var isJsDom2 = () => typeof window !== "undefined" && window.name === "nodejs" || typeof navigator !== "undefined" && (navigator.userAgent.includes("Node.js") || navigator.userAgent.includes("jsdom"));
@@ -59646,7 +59881,7 @@ function getEnvironmentVariable2(name) {
   }
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/callbacks/base.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/callbacks/base.js
 var BaseCallbackHandlerMethodsClass = class {
 };
 var BaseCallbackHandler = class _BaseCallbackHandler extends BaseCallbackHandlerMethodsClass {
@@ -59777,7 +60012,7 @@ var isBaseCallbackHandler = (x2) => {
   return callbackHandler !== void 0 && typeof callbackHandler.copy === "function" && typeof callbackHandler.name === "string" && typeof callbackHandler.awaitHandlers === "boolean";
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tracers/base.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tracers/base.js
 function _coerceToDict(value, defaultKey) {
   return value && !Array.isArray(value) && typeof value === "object" ? value : { [defaultKey]: value };
 }
@@ -60223,7 +60458,7 @@ ${error.stack}` : "");
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tracers/console.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tracers/console.js
 var import_ansi_styles = __toESM(require_ansi_styles(), 1);
 function wrap(style, text) {
   return `${style.open}${text}${style.close}`;
@@ -60429,7 +60664,7 @@ var ConsoleCallbackHandler = class extends BaseTracer {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tools/utils.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tools/utils.js
 function _isToolCall(toolCall) {
   return !!(toolCall && typeof toolCall === "object" && "type" in toolCall && toolCall.type === "tool_call");
 }
@@ -60446,7 +60681,7 @@ var ToolInputParsingException = class extends Error {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/json.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/json.js
 function parsePartialJson(s) {
   if (typeof s === "undefined") {
     return null;
@@ -60501,7 +60736,7 @@ function parsePartialJson(s) {
   }
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/messages/base.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/messages/base.js
 function mergeContent(firstContent, secondContent) {
   if (typeof firstContent === "string") {
     if (typeof secondContent === "string") {
@@ -60711,7 +60946,7 @@ function _mergeLists(left, right) {
 var BaseMessageChunk = class extends BaseMessage {
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/messages/ai.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/messages/ai.js
 var AIMessageChunk = class _AIMessageChunk extends BaseMessageChunk {
   constructor(fields) {
     let initParams;
@@ -60879,7 +61114,7 @@ var AIMessageChunk = class _AIMessageChunk extends BaseMessageChunk {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/messages/utils.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/messages/utils.js
 function getBufferString(messages, humanPrefix = "Human", aiPrefix = "AI") {
   const string_messages = [];
   for (const m2 of messages) {
@@ -60906,7 +61141,7 @@ function getBufferString(messages, humanPrefix = "Human", aiPrefix = "AI") {
   return string_messages.join("\n");
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/singletons/tracer.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/singletons/tracer.js
 var client;
 var getDefaultLangChainClientSingleton = () => {
   if (client === void 0) {
@@ -60919,7 +61154,7 @@ var getDefaultLangChainClientSingleton = () => {
   return client;
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tracers/tracer_langchain.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tracers/tracer_langchain.js
 var LangChainTracer = class _LangChainTracer extends BaseTracer {
   constructor(fields = {}) {
     super(fields);
@@ -61063,10 +61298,10 @@ var LangChainTracer = class _LangChainTracer extends BaseTracer {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/singletons/callbacks.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/singletons/callbacks.js
 var import_p_queue2 = __toESM(require_dist(), 1);
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/singletons/async_local_storage/globals.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/singletons/async_local_storage/globals.js
 var TRACING_ALS_KEY2 = Symbol.for("ls:tracing_async_local_storage");
 var _CONTEXT_VARIABLES_KEY = Symbol.for("lc:context_variables");
 var setGlobalAsyncLocalStorageInstance = (instance) => {
@@ -61076,7 +61311,7 @@ var getGlobalAsyncLocalStorageInstance = () => {
   return globalThis[TRACING_ALS_KEY2];
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/singletons/callbacks.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/singletons/callbacks.js
 var queue;
 function createQueue() {
   const PQueue = "default" in import_p_queue2.default ? import_p_queue2.default.default : import_p_queue2.default;
@@ -61112,7 +61347,7 @@ async function consumeCallback(promiseFn, wait) {
   }
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/callbacks.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/callbacks.js
 var isTracingEnabled2 = (tracingEnabled) => {
   if (tracingEnabled !== void 0) {
     return tracingEnabled;
@@ -61126,7 +61361,7 @@ var isTracingEnabled2 = (tracingEnabled) => {
   return !!envVars.find((envVar) => getEnvironmentVariable2(envVar) === "true");
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/singletons/async_local_storage/context.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/singletons/async_local_storage/context.js
 function getContextVariable(name) {
   const asyncLocalStorageInstance = getGlobalAsyncLocalStorageInstance();
   if (asyncLocalStorageInstance === void 0) {
@@ -61138,7 +61373,7 @@ function getContextVariable(name) {
 var LC_CONFIGURE_HOOKS_KEY = Symbol("lc:configure_hooks");
 var _getConfigureHooks = () => getContextVariable(LC_CONFIGURE_HOOKS_KEY) || [];
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/callbacks/manager.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/callbacks/manager.js
 function parseCallbackConfigArg(arg) {
   if (!arg) {
     return {};
@@ -61794,7 +62029,7 @@ function ensureHandler(handler) {
   return BaseCallbackHandler.fromMethods(handler);
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/singletons/async_local_storage/index.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/singletons/async_local_storage/index.js
 var MockAsyncLocalStorage2 = class {
   getStore() {
     return void 0;
@@ -61847,7 +62082,7 @@ var AsyncLocalStorageProvider2 = class {
 };
 var AsyncLocalStorageProviderSingleton2 = new AsyncLocalStorageProvider2();
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/config.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/config.js
 var DEFAULT_RECURSION_LIMIT = 25;
 async function getCallbackManagerForConfig(config) {
   return CallbackManager._configureSync(config?.callbacks, void 0, config?.tags, void 0, config?.metadata);
@@ -62023,7 +62258,7 @@ function pickRunnableConfigKeys(config) {
   } : void 0;
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/signal.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/signal.js
 async function raceWithSignal(promise, signal) {
   if (signal === void 0) {
     return promise;
@@ -62049,7 +62284,7 @@ async function raceWithSignal(promise, signal) {
   ]).finally(() => signal.removeEventListener("abort", listener));
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/stream.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/stream.js
 var IterableReadableStream = class _IterableReadableStream extends ReadableStream {
   constructor() {
     super(...arguments);
@@ -62282,7 +62517,7 @@ async function pipeGeneratorWithSetup(to, generator, startSetup, signal, ...args
   return { output: to(gen, setup, ...args), setup };
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tracers/log_stream.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tracers/log_stream.js
 var RunLogPatch = class {
   constructor(fields) {
     Object.defineProperty(this, "ops", {
@@ -62648,7 +62883,7 @@ var LogStreamCallbackHandler = class extends BaseTracer {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/outputs.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/outputs.js
 var GenerationChunk = class _GenerationChunk {
   constructor(fields) {
     Object.defineProperty(this, "text", {
@@ -62677,7 +62912,7 @@ var GenerationChunk = class _GenerationChunk {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tracers/event_stream.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tracers/event_stream.js
 function assignName({ name, serialized }) {
   if (name !== void 0) {
     return name;
@@ -63157,7 +63392,7 @@ var EventStreamCallbackHandler = class extends BaseTracer {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/async_caller.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/async_caller.js
 var import_p_retry2 = __toESM(require_p_retry(), 1);
 var import_p_queue3 = __toESM(require_dist(), 1);
 var STATUS_NO_RETRY2 = [
@@ -63259,7 +63494,7 @@ var AsyncCaller2 = class {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/tracers/root_listener.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/tracers/root_listener.js
 var RootListenersTracer = class extends BaseTracer {
   constructor({ config, onStart, onEnd, onError }) {
     super({ _awaitHandler: true });
@@ -63335,7 +63570,7 @@ var RootListenersTracer = class extends BaseTracer {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/utils.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/utils.js
 function isRunnableInterface(thing) {
   return thing ? thing.lc_runnable : false;
 }
@@ -63409,7 +63644,7 @@ var _RootEventFilter = class {
   }
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/Options.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/Options.js
 var ignoreOverride = Symbol("Let zodToJsonSchema decide on which parser to use");
 var defaultOptions2 = {
   name: void 0,
@@ -63440,7 +63675,7 @@ var getDefaultOptions = (options) => typeof options === "string" ? {
   ...options
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/Refs.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/Refs.js
 var getRefs = (options) => {
   const _options = getDefaultOptions(options);
   const currentPath = _options.name !== void 0 ? [..._options.basePath, _options.definitionPath, _options.name] : _options.basePath;
@@ -63460,7 +63695,7 @@ var getRefs = (options) => {
   };
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/errorMessages.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/errorMessages.js
 function addErrorMessage(res, key, errorMessage, refs) {
   if (!refs?.errorMessages)
     return;
@@ -63476,12 +63711,12 @@ function setResponseValueAndErrors(res, key, value, errorMessage, refs) {
   addErrorMessage(res, key, errorMessage, refs);
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/any.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/any.js
 function parseAnyDef() {
   return {};
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/array.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/array.js
 function parseArrayDef(def, refs) {
   const res = {
     type: "array"
@@ -63505,7 +63740,7 @@ function parseArrayDef(def, refs) {
   return res;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/bigint.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/bigint.js
 function parseBigintDef(def, refs) {
   const res = {
     type: "integer",
@@ -63551,24 +63786,24 @@ function parseBigintDef(def, refs) {
   return res;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/boolean.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/boolean.js
 function parseBooleanDef() {
   return {
     type: "boolean"
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/branded.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/branded.js
 function parseBrandedDef(_def, refs) {
   return parseDef(_def.type._def, refs);
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/catch.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/catch.js
 var parseCatchDef = (def, refs) => {
   return parseDef(def.innerType._def, refs);
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/date.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/date.js
 function parseDateDef(def, refs, overrideDateStrategy) {
   const strategy = overrideDateStrategy ?? refs.dateStrategy;
   if (Array.isArray(strategy)) {
@@ -63627,7 +63862,7 @@ var integerDateParser = (def, refs) => {
   return res;
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/default.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/default.js
 function parseDefaultDef(_def, refs) {
   return {
     ...parseDef(_def.innerType._def, refs),
@@ -63635,20 +63870,20 @@ function parseDefaultDef(_def, refs) {
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/effects.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/effects.js
 function parseEffectsDef(_def, refs) {
   return refs.effectStrategy === "input" ? parseDef(_def.schema._def, refs) : {};
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/enum.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/enum.js
 function parseEnumDef(def) {
   return {
     type: "string",
-    enum: def.values
+    enum: Array.from(def.values)
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/intersection.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/intersection.js
 var isJsonSchema7AllOfType = (type) => {
   if ("type" in type && type.type === "string")
     return false;
@@ -63690,7 +63925,7 @@ function parseIntersectionDef(def, refs) {
   } : void 0;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/literal.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/literal.js
 function parseLiteralDef(def, refs) {
   const parsedType = typeof def.value;
   if (parsedType !== "bigint" && parsedType !== "number" && parsedType !== "boolean" && parsedType !== "string") {
@@ -63710,8 +63945,8 @@ function parseLiteralDef(def, refs) {
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/string.js
-var emojiRegex2;
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/string.js
+var emojiRegex2 = void 0;
 var zodPatterns = {
   /**
    * `c` was changed to `[cC]` to replicate /i flag
@@ -63748,20 +63983,21 @@ var zodPatterns = {
    * Unused
    */
   ipv4: /^(?:(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\.){3}(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])$/,
+  ipv4Cidr: /^(?:(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\.){3}(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])\/(3[0-2]|[12]?[0-9])$/,
   /**
    * Unused
    */
   ipv6: /^(([a-f0-9]{1,4}:){7}|::([a-f0-9]{1,4}:){0,6}|([a-f0-9]{1,4}:){1}:([a-f0-9]{1,4}:){0,5}|([a-f0-9]{1,4}:){2}:([a-f0-9]{1,4}:){0,4}|([a-f0-9]{1,4}:){3}:([a-f0-9]{1,4}:){0,3}|([a-f0-9]{1,4}:){4}:([a-f0-9]{1,4}:){0,2}|([a-f0-9]{1,4}:){5}:([a-f0-9]{1,4}:){0,1})([a-f0-9]{1,4}|(((25[0-5])|(2[0-4][0-9])|(1[0-9]{2})|([0-9]{1,2}))\.){3}((25[0-5])|(2[0-4][0-9])|(1[0-9]{2})|([0-9]{1,2})))$/,
+  ipv6Cidr: /^(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,7}:|([0-9a-fA-F]{1,4}:){1,6}:[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,5}(:[0-9a-fA-F]{1,4}){1,2}|([0-9a-fA-F]{1,4}:){1,4}(:[0-9a-fA-F]{1,4}){1,3}|([0-9a-fA-F]{1,4}:){1,3}(:[0-9a-fA-F]{1,4}){1,4}|([0-9a-fA-F]{1,4}:){1,2}(:[0-9a-fA-F]{1,4}){1,5}|[0-9a-fA-F]{1,4}:((:[0-9a-fA-F]{1,4}){1,6})|:((:[0-9a-fA-F]{1,4}){1,7}|:)|fe80:(:[0-9a-fA-F]{0,4}){0,4}%[0-9a-zA-Z]{1,}|::(ffff(:0{1,4}){0,1}:){0,1}((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])|([0-9a-fA-F]{1,4}:){1,4}:((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9]))\/(12[0-8]|1[01][0-9]|[1-9]?[0-9])$/,
   base64: /^([0-9a-zA-Z+/]{4})*(([0-9a-zA-Z+/]{2}==)|([0-9a-zA-Z+/]{3}=))?$/,
-  nanoid: /^[a-zA-Z0-9_-]{21}$/
+  base64url: /^([0-9a-zA-Z-_]{4})*(([0-9a-zA-Z-_]{2}(==)?)|([0-9a-zA-Z-_]{3}(=)?))?$/,
+  nanoid: /^[a-zA-Z0-9_-]{21}$/,
+  jwt: /^[A-Za-z0-9-_]+\.[A-Za-z0-9-_]+\.[A-Za-z0-9-_]*$/
 };
 function parseStringDef(def, refs) {
   const res = {
     type: "string"
   };
-  function processPattern(value) {
-    return refs.patternStrategy === "escape" ? escapeNonAlphaNumeric(value) : value;
-  }
   if (def.checks) {
     for (const check of def.checks) {
       switch (check.kind) {
@@ -63800,10 +64036,10 @@ function parseStringDef(def, refs) {
           addPattern(res, zodPatterns.cuid2, check.message, refs);
           break;
         case "startsWith":
-          addPattern(res, RegExp(`^${processPattern(check.value)}`), check.message, refs);
+          addPattern(res, RegExp(`^${escapeLiteralCheckValue(check.value, refs)}`), check.message, refs);
           break;
         case "endsWith":
-          addPattern(res, RegExp(`${processPattern(check.value)}$`), check.message, refs);
+          addPattern(res, RegExp(`${escapeLiteralCheckValue(check.value, refs)}$`), check.message, refs);
           break;
         case "datetime":
           addFormat(res, "date-time", check.message, refs);
@@ -63822,7 +64058,7 @@ function parseStringDef(def, refs) {
           setResponseValueAndErrors(res, "maxLength", typeof res.maxLength === "number" ? Math.min(res.maxLength, check.value) : check.value, check.message, refs);
           break;
         case "includes": {
-          addPattern(res, RegExp(processPattern(check.value)), check.message, refs);
+          addPattern(res, RegExp(escapeLiteralCheckValue(check.value, refs)), check.message, refs);
           break;
         }
         case "ip": {
@@ -63834,8 +64070,23 @@ function parseStringDef(def, refs) {
           }
           break;
         }
+        case "base64url":
+          addPattern(res, zodPatterns.base64url, check.message, refs);
+          break;
+        case "jwt":
+          addPattern(res, zodPatterns.jwt, check.message, refs);
+          break;
+        case "cidr": {
+          if (check.version !== "v6") {
+            addPattern(res, zodPatterns.ipv4Cidr, check.message, refs);
+          }
+          if (check.version !== "v4") {
+            addPattern(res, zodPatterns.ipv6Cidr, check.message, refs);
+          }
+          break;
+        }
         case "emoji":
-          addPattern(res, zodPatterns.emoji, check.message, refs);
+          addPattern(res, zodPatterns.emoji(), check.message, refs);
           break;
         case "ulid": {
           addPattern(res, zodPatterns.ulid, check.message, refs);
@@ -63873,8 +64124,21 @@ function parseStringDef(def, refs) {
   }
   return res;
 }
-var escapeNonAlphaNumeric = (value) => Array.from(value).map((c) => /[a-zA-Z0-9]/.test(c) ? c : `\\${c}`).join("");
-var addFormat = (schema, value, message, refs) => {
+function escapeLiteralCheckValue(literal, refs) {
+  return refs.patternStrategy === "escape" ? escapeNonAlphaNumeric(literal) : literal;
+}
+var ALPHA_NUMERIC = new Set("ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyz0123456789");
+function escapeNonAlphaNumeric(source) {
+  let result = "";
+  for (let i = 0; i < source.length; i++) {
+    if (!ALPHA_NUMERIC.has(source[i])) {
+      result += "\\";
+    }
+    result += source[i];
+  }
+  return result;
+}
+function addFormat(schema, value, message, refs) {
   if (schema.format || schema.anyOf?.some((x2) => x2.format)) {
     if (!schema.anyOf) {
       schema.anyOf = [];
@@ -63901,8 +64165,8 @@ var addFormat = (schema, value, message, refs) => {
   } else {
     setResponseValueAndErrors(schema, "format", value, message, refs);
   }
-};
-var addPattern = (schema, regex2, message, refs) => {
+}
+function addPattern(schema, regex2, message, refs) {
   if (schema.pattern || schema.allOf?.some((x2) => x2.pattern)) {
     if (!schema.allOf) {
       schema.allOf = [];
@@ -63923,17 +64187,17 @@ var addPattern = (schema, regex2, message, refs) => {
       }
     }
     schema.allOf.push({
-      pattern: processRegExp(regex2, refs),
+      pattern: stringifyRegExpWithFlags(regex2, refs),
       ...message && refs.errorMessages && { errorMessage: { pattern: message } }
     });
   } else {
-    setResponseValueAndErrors(schema, "pattern", processRegExp(regex2, refs), message, refs);
+    setResponseValueAndErrors(schema, "pattern", stringifyRegExpWithFlags(regex2, refs), message, refs);
   }
-};
-var processRegExp = (regexOrFunction, refs) => {
-  const regex2 = typeof regexOrFunction === "function" ? regexOrFunction() : regexOrFunction;
-  if (!refs.applyRegexFlags || !regex2.flags)
+}
+function stringifyRegExpWithFlags(regex2, refs) {
+  if (!refs.applyRegexFlags || !regex2.flags) {
     return regex2.source;
+  }
   const flags = {
     i: regex2.flags.includes("i"),
     m: regex2.flags.includes("m"),
@@ -63998,16 +64262,19 @@ var processRegExp = (regexOrFunction, refs) => {
     }
   }
   try {
-    const regexTest = new RegExp(pattern);
+    new RegExp(pattern);
   } catch {
     console.warn(`Could not convert regex pattern at ${refs.currentPath.join("/")} to a flag-independent form! Falling back to the flag-ignorant source`);
     return regex2.source;
   }
   return pattern;
-};
+}
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/record.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/record.js
 function parseRecordDef(def, refs) {
+  if (refs.target === "openAi") {
+    console.warn("Warning: OpenAI may not support records in schemas! Try an array of key-value pairs instead.");
+  }
   if (refs.target === "openApi3" && def.keyType?._def.typeName === ZodFirstPartyTypeKind.ZodEnum) {
     return {
       type: "object",
@@ -64055,7 +64322,7 @@ function parseRecordDef(def, refs) {
   return schema;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/map.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/map.js
 function parseMapDef(def, refs) {
   if (refs.mapStrategy === "record") {
     return parseRecordDef(def, refs);
@@ -64080,7 +64347,7 @@ function parseMapDef(def, refs) {
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/nativeEnum.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/nativeEnum.js
 function parseNativeEnumDef(def) {
   const object = def.values;
   const actualKeys = Object.keys(def.values).filter((key) => {
@@ -64094,14 +64361,14 @@ function parseNativeEnumDef(def) {
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/never.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/never.js
 function parseNeverDef() {
   return {
     not: {}
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/null.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/null.js
 function parseNullDef(refs) {
   return refs.target === "openApi3" ? {
     enum: ["null"],
@@ -64111,7 +64378,7 @@ function parseNullDef(refs) {
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/union.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/union.js
 var primitiveMappings = {
   ZodString: "string",
   ZodNumber: "number",
@@ -64179,7 +64446,7 @@ var asAnyOf = (def, refs) => {
   return anyOf.length ? { anyOf } : void 0;
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/nullable.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/nullable.js
 function parseNullableDef(def, refs) {
   if (["ZodString", "ZodNumber", "ZodBigInt", "ZodBoolean", "ZodNull"].includes(def.innerType._def.typeName) && (!def.innerType._def.checks || !def.innerType._def.checks.length)) {
     if (refs.target === "openApi3") {
@@ -64211,7 +64478,7 @@ function parseNullableDef(def, refs) {
   return base && { anyOf: [base, { type: "null" }] };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/number.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/number.js
 function parseNumberDef(def, refs) {
   const res = {
     type: "number"
@@ -64260,7 +64527,7 @@ function parseNumberDef(def, refs) {
   return res;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/object.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/object.js
 function decideAdditionalProperties(def, refs) {
   if (refs.removeAdditionalStrategy === "strict") {
     return def.catchall._def.typeName === "ZodNever" ? def.unknownKeys !== "strict" : parseDef(def.catchall._def, {
@@ -64275,11 +64542,22 @@ function decideAdditionalProperties(def, refs) {
   }
 }
 function parseObjectDef(def, refs) {
+  const forceOptionalIntoNullable = refs.target === "openAi";
   const result = {
     type: "object",
     ...Object.entries(def.shape()).reduce((acc, [propName, propDef]) => {
       if (propDef === void 0 || propDef._def === void 0)
         return acc;
+      let propOptional = propDef.isOptional();
+      if (propOptional && forceOptionalIntoNullable) {
+        if (propDef instanceof ZodOptional) {
+          propDef = propDef._def.innerType;
+        }
+        if (!propDef.isNullable()) {
+          propDef = propDef.nullable();
+        }
+        propOptional = false;
+      }
       const parsedDef = parseDef(propDef._def, {
         ...refs,
         currentPath: [...refs.currentPath, "properties", propName],
@@ -64289,7 +64567,7 @@ function parseObjectDef(def, refs) {
         return acc;
       return {
         properties: { ...acc.properties, [propName]: parsedDef },
-        required: propDef.isOptional() ? acc.required : [...acc.required, propName]
+        required: propOptional ? acc.required : [...acc.required, propName]
       };
     }, { properties: {}, required: [] }),
     additionalProperties: decideAdditionalProperties(def, refs)
@@ -64299,7 +64577,7 @@ function parseObjectDef(def, refs) {
   return result;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/optional.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/optional.js
 var parseOptionalDef = (def, refs) => {
   if (refs.currentPath.toString() === refs.propertyPath?.toString()) {
     return parseDef(def.innerType._def, refs);
@@ -64318,7 +64596,7 @@ var parseOptionalDef = (def, refs) => {
   } : {};
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/pipeline.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/pipeline.js
 var parsePipelineDef = (def, refs) => {
   if (refs.pipeStrategy === "input") {
     return parseDef(def.in._def, refs);
@@ -64338,12 +64616,12 @@ var parsePipelineDef = (def, refs) => {
   };
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/promise.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/promise.js
 function parsePromiseDef(def, refs) {
   return parseDef(def.type._def, refs);
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/set.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/set.js
 function parseSetDef(def, refs) {
   const items = parseDef(def.valueType._def, {
     ...refs,
@@ -64363,7 +64641,7 @@ function parseSetDef(def, refs) {
   return schema;
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/tuple.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/tuple.js
 function parseTupleDef(def, refs) {
   if (def.rest) {
     return {
@@ -64391,24 +64669,24 @@ function parseTupleDef(def, refs) {
   }
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/undefined.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/undefined.js
 function parseUndefinedDef() {
   return {
     not: {}
   };
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/unknown.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/unknown.js
 function parseUnknownDef() {
   return {};
 }
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parsers/readonly.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parsers/readonly.js
 var parseReadonlyDef = (def, refs) => {
   return parseDef(def.innerType._def, refs);
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/parseDef.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/parseDef.js
 function parseDef(def, refs, forceResolution = false) {
   const seenItem = refs.seen.get(def);
   if (refs.override) {
@@ -64540,7 +64818,7 @@ var addMeta = (def, refs, jsonSchema) => {
   return jsonSchema;
 };
 
-// node_modules/.pnpm/zod-to-json-schema@3.23.5_zod@3.24.0/node_modules/zod-to-json-schema/dist/esm/zodToJsonSchema.js
+// node_modules/.pnpm/zod-to-json-schema@3.24.1_zod@3.24.1/node_modules/zod-to-json-schema/dist/esm/zodToJsonSchema.js
 var zodToJsonSchema = (schema, options) => {
   const refs = getRefs(options);
   const definitions = typeof options === "object" && options.definitions ? Object.entries(options.definitions).reduce((acc, [name2, schema2]) => ({
@@ -64575,13 +64853,16 @@ var zodToJsonSchema = (schema, options) => {
   };
   if (refs.target === "jsonSchema7") {
     combined.$schema = "http://json-schema.org/draft-07/schema#";
-  } else if (refs.target === "jsonSchema2019-09") {
+  } else if (refs.target === "jsonSchema2019-09" || refs.target === "openAi") {
     combined.$schema = "https://json-schema.org/draft/2019-09/schema#";
+  }
+  if (refs.target === "openAi" && ("anyOf" in combined || "oneOf" in combined || "allOf" in combined || "type" in combined && Array.isArray(combined.type))) {
+    console.warn("Warning: OpenAI may not support schemas with unions as roots! Try wrapping it in an object property.");
   }
   return combined;
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/graph_mermaid.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/graph_mermaid.js
 function _escapeNodeLabel(nodeLabel) {
   return nodeLabel.replace(/[^a-zA-Z-_0-9]/g, "_");
 }
@@ -64702,7 +64983,7 @@ async function drawMermaidPng(mermaidSyntax, config) {
   return content;
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/graph.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/graph.js
 function nodeDataStr(id, data) {
   if (id !== void 0 && !validate_default(id)) {
     return id;
@@ -64937,7 +65218,7 @@ function _lastNode(graph, exclude = []) {
   return found.length === 1 ? found[0] : void 0;
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/wrappers.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/wrappers.js
 function convertToHttpEventStream(stream) {
   const encoder2 = new TextEncoder();
   const finalStream = new ReadableStream({
@@ -64955,7 +65236,7 @@ data: ${JSON.stringify(chunk)}
   return IterableReadableStream.fromReadableStream(finalStream);
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/iter.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/iter.js
 function isIterableIterator(thing) {
   return typeof thing === "object" && thing !== null && typeof thing[Symbol.iterator] === "function" && // avoid detecting array/set as iterator
   typeof thing.next === "function";
@@ -64986,7 +65267,7 @@ async function* consumeAsyncIterableInContext(context, iter) {
   }
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/runnables/base.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/runnables/base.js
 function _coerceToDict2(value, defaultKey) {
   return value && !Array.isArray(value) && // eslint-disable-next-line no-instanceof/no-instanceof
   !(value instanceof Date) && typeof value === "object" ? value : { [defaultKey]: value };
@@ -66815,7 +67096,7 @@ function convertRunnableToTool(runnable, fields) {
   });
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/documents/transformers.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/documents/transformers.js
 var BaseDocumentTransformer = class extends Runnable {
   constructor() {
     super(...arguments);
@@ -66993,7 +67274,7 @@ __publicField2(Tiktoken, "specialTokenRegex", (tokens) => {
   return new RegExp(tokens.map((i) => escapeRegex(i)).join("|"), "g");
 });
 
-// node_modules/.pnpm/@langchain+textsplitters@0.1.0_@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0__/node_modules/@langchain/textsplitters/dist/text_splitter.js
+// node_modules/.pnpm/@langchain+textsplitters@0.1.0_@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1__/node_modules/@langchain/textsplitters/dist/text_splitter.js
 var TextSplitter = class extends BaseDocumentTransformer {
   constructor(fields) {
     super(fields);
@@ -67569,7 +67850,7 @@ var MarkdownTextSplitter = class extends RecursiveCharacterTextSplitter {
   }
 };
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/defaultJsonSerializer.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/defaultJsonSerializer.js
 var defaultJsonSerializer = {
   parse: JSON.parse,
   stringify: JSON.stringify
@@ -67579,7 +67860,7 @@ var defaultJsonSerializer = {
 var import_extractFiles = __toESM(require_extractFiles(), 1);
 var import_isExtractableFile = __toESM(require_isExtractableFile(), 1);
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/createRequestBody.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/createRequestBody.js
 var import_form_data = __toESM(require_form_data(), 1);
 var isExtractableFileEnhanced = (value) => (0, import_isExtractableFile.default)(value) || value !== null && typeof value === `object` && typeof value.pipe === `function`;
 var createRequestBody = (query, variables, operationName, jsonSerializer = defaultJsonSerializer) => {
@@ -67614,7 +67895,7 @@ var createRequestBody = (query, variables, operationName, jsonSerializer = defau
 };
 var createRequestBody_default = createRequestBody;
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/helpers.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/helpers.js
 var uppercase = (str) => str.toUpperCase();
 var HeadersInstanceToPlainObject = (headers) => {
   const o = {};
@@ -67624,7 +67905,7 @@ var HeadersInstanceToPlainObject = (headers) => {
   return o;
 };
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/parseArgs.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/parseArgs.js
 var parseRequestArgs = (documentOrOptions, variables, requestHeaders) => {
   return documentOrOptions.document ? documentOrOptions : {
     document: documentOrOptions,
@@ -67649,7 +67930,7 @@ var parseBatchRequestArgs = (documentsOrOptions, requestHeaders) => {
   };
 };
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/resolveRequestDocument.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/resolveRequestDocument.js
 var import_graphql = __toESM(require_graphql2(), 1);
 var extractOperationName = (document) => {
   let operationName = void 0;
@@ -67673,7 +67954,7 @@ var resolveRequestDocument = (document) => {
   return { query: (0, import_graphql.print)(document), operationName };
 };
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/types.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/types.js
 var ClientError = class _ClientError extends Error {
   constructor(response, request) {
     const message = `${_ClientError.extractMessage(response)}: ${JSON.stringify({
@@ -67693,10 +67974,10 @@ var ClientError = class _ClientError extends Error {
   }
 };
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/index.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/index.js
 var CrossFetch = __toESM(require_node_ponyfill(), 1);
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/graphql-ws.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/graphql-ws.js
 var CONNECTION_INIT = `connection_init`;
 var CONNECTION_ACK = `connection_ack`;
 var PING = `ping`;
@@ -67875,7 +68156,7 @@ function Complete(id) {
   return new GraphQLWebSocketMessage(COMPLETE, void 0, id);
 }
 
-// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.9.0/node_modules/graphql-request/build/esm/index.js
+// node_modules/.pnpm/graphql-request@5.2.0_graphql@16.10.0/node_modules/graphql-request/build/esm/index.js
 var resolveHeaders = (headers) => {
   let oHeaders = {};
   if (headers) {
@@ -68133,7 +68414,7 @@ var callOrIdentity = (value) => {
   return typeof value === `function` ? value() : value;
 };
 
-// node_modules/.pnpm/weaviate-ts-client@2.2.0_graphql@16.9.0/node_modules/weaviate-ts-client/dist/index.mjs
+// node_modules/.pnpm/weaviate-ts-client@2.2.0_graphql@16.10.0/node_modules/weaviate-ts-client/dist/index.mjs
 var Ae = class {
   constructor(t, e) {
     this.refresh = async (t2) => {
@@ -70043,7 +70324,7 @@ function Bt(i) {
 }
 var mh = $t;
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/retrievers/index.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/retrievers/index.js
 var BaseRetriever = class extends Runnable {
   /**
    * Constructs a new `BaseRetriever` instance with optional configuration fields.
@@ -70143,7 +70424,7 @@ var BaseRetriever = class extends Runnable {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/vectorstores.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/vectorstores.js
 var VectorStoreRetriever = class extends BaseRetriever {
   static lc_name() {
     return "VectorStoreRetriever";
@@ -70453,7 +70734,7 @@ var VectorStore = class extends Serializable {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/ml-distance/similarities.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/ml-distance/similarities.js
 function cosine(a2, b2) {
   let p2 = 0;
   let p22 = 0;
@@ -70466,7 +70747,7 @@ function cosine(a2, b2) {
   return p2 / (Math.sqrt(p22) * Math.sqrt(q2));
 }
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/math.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/math.js
 function matrixFunc(X2, Y2, func) {
   if (X2.length === 0 || X2[0].length === 0 || Y2.length === 0 || Y2[0].length === 0) {
     return [[]];
@@ -70529,7 +70810,7 @@ function argMax(array) {
   return { maxIndex, maxValue };
 }
 
-// node_modules/.pnpm/@langchain+weaviate@0.1.0_@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0___graphql@16.9.0/node_modules/@langchain/weaviate/dist/vectorstores.js
+// node_modules/.pnpm/@langchain+weaviate@0.1.0_@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1___graphql@16.10.0/node_modules/@langchain/weaviate/dist/vectorstores.js
 var flattenObjectForWeaviate = (obj) => {
   const flattenedObject = {};
   for (const key in obj) {
@@ -70823,7 +71104,7 @@ var WeaviateStore = class _WeaviateStore extends VectorStore {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/js-sha1/hash.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/js-sha1/hash.js
 var root = typeof window === "object" ? window : {};
 var HEX_CHARS = "0123456789abcdef".split("");
 var EXTRA = [-2147483648, 8388608, 32768, 128];
@@ -71183,7 +71464,7 @@ var OutputFormat;
   OutputFormat2[OutputFormat2["Detailed"] = 4] = "Detailed";
 })(OutputFormat || (OutputFormat = {}));
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/embeddings.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/embeddings.js
 var Embeddings = class {
   constructor(params) {
     Object.defineProperty(this, "caller", {
@@ -71196,7 +71477,7 @@ var Embeddings = class {
   }
 };
 
-// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0_/node_modules/@langchain/core/dist/utils/chunk_array.js
+// node_modules/.pnpm/@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1_/node_modules/@langchain/core/dist/utils/chunk_array.js
 var chunkArray = (arr2, chunkSize) => arr2.reduce((chunks, elem, index) => {
   const chunkIndex = Math.floor(index / chunkSize);
   const chunk = chunks[chunkIndex] || [];
@@ -71204,7 +71485,7 @@ var chunkArray = (arr2, chunkSize) => arr2.reduce((chunks, elem, index) => {
   return chunks;
 }, []);
 
-// node_modules/.pnpm/@langchain+mistralai@0.2.0_@langchain+core@0.3.23_openai@4.76.0_zod@3.24.0___react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@langchain/mistralai/dist/embeddings.js
+// node_modules/.pnpm/@langchain+mistralai@0.2.0_@langchain+core@0.3.23_openai@4.76.3_zod@3.24.1___react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@langchain/mistralai/dist/embeddings.js
 var import_http = __toESM(require_http(), 1);
 var MistralAIEmbeddings = class extends Embeddings {
   constructor(fields) {
@@ -71421,21 +71702,23 @@ var MistralAIEmbeddings = class extends Embeddings {
   }
 };
 
+// src/secret.ts
+var MISTRAL_API_KEY = "EBTBmkHrJg5Ym0B9kINvYHNj1VpPOvkd";
+var WEAVIATE_END_POINT = "7gcqwfxsqrilsgxh9k0ojw.c0.europe-west3.gcp.weaviate.cloud";
+var WEAVIATE_API_KEY = "DtSG4D4iOSErBHflQwE84TqylxqWAPUFMesi";
+
 // src/weaviate.ts
 var WeaviateService = class {
   constructor() {
-    this.MISTRAL_API_KEY = "EBTBmkHrJg5Ym0B9kINvYHNj1VpPOvkd";
-    this.WEAVIATE_END_POINT = "7gcqwfxsqrilsgxh9k0ojw.c0.europe-west3.gcp.weaviate.cloud";
-    this.WEAVIATE_API_KEY = "DtSG4D4iOSErBHflQwE84TqylxqWAPUFMesi";
     this.initialize();
   }
   initialize() {
     this.client = mh.client({
       scheme: "https",
-      host: this.WEAVIATE_END_POINT,
-      apiKey: new ke(this.WEAVIATE_API_KEY)
+      host: WEAVIATE_END_POINT,
+      apiKey: new ke(WEAVIATE_API_KEY)
     });
-    this.embeddings = new MistralAIEmbeddings({ apiKey: this.MISTRAL_API_KEY });
+    this.embeddings = new MistralAIEmbeddings({ apiKey: MISTRAL_API_KEY });
     console.info("== WeaviateService -- started");
   }
   async getStore(indexName) {

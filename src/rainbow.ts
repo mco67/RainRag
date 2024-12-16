@@ -3,6 +3,7 @@
 
 import { NodeSDK, DataStoreType } from 'rainbow-node-sdk'
 import type { Message } from 'rainbow-node-sdk/lib/common/models/Message.js'
+import { RAINBOW_APP_ID, RAINBOW_APP_SECRET, RAINBOW_USER_LOGIN, RAINBOW_USER_PASSWORD }  from "./secret.js";  
 
 export class RainbowService {
 
@@ -16,12 +17,12 @@ export class RainbowService {
 				mode: 'xmpp',
 			},
 			credentials: {
-				login: 'bot.test@drabedroc.fr',
-				password: 'Alcatel_123!',
+				login: RAINBOW_USER_LOGIN,
+				password: RAINBOW_USER_PASSWORD,
 			},
 			application: {
-				appID: '37033b1001bd11e8843d6f00134e519a',
-				appSecret: 'FyZjGPsk7FXzWeyPz0vSfT1ar6XjZRz3DCoTxQ6mSpTvcOoND2CtcEWxcmkqGDJW',
+				appID: RAINBOW_APP_ID,
+				appSecret: RAINBOW_APP_SECRET,
 			},
 			logs: {
 				enableConsoleLogs: false,
