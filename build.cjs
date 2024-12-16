@@ -8,7 +8,7 @@ esbuild.build({
   sourcemap: true,
   target: "es2020",
   format: "cjs",
-  external: ['mock-socket'],
+  external: ['mock-socket', '@babel/plugin-transform-modules-commonjs', '@babel/plugin-proposal-export-namespace-from'],
   resolveExtensions: [".ts", ".js", ".mjs", ".json"]
 }).catch(() => process.exit(1));
 
