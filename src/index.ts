@@ -47,6 +47,7 @@ export class SDKBot {
 				this.rainbowService?.sendIsTyping(convId, true);
 
 				const historyContext = await this.getHistoryContext(convId);
+				console.dir(historyContext)
 				const aiResponse = await this.llmService?.invokeLLM(text, historyContext);
 				historyContext.addMessage(text, 'R');
 				historyContext.addAIMessage(aiResponse);
@@ -54,8 +55,9 @@ export class SDKBot {
 				let response = await this.parser.invoke(aiResponse);
 				if (response) {
 					response = response.replace(/\n\s*\n/g, '\n').trim();
-					const messages = splitMarkdown(response, 8192);
-					messages.forEach(message => this.rainbowService?.sendMessage(convId, message));
+					this.rainbowService?.sendMessage(convId, response);
+					//const messages = splitMarkdown(response, 8192);
+					//messages.forEach(message => this.rainbowService?.sendMessage(convId, message));
 				}
 				this.rainbowService?.sendIsTyping(convId, false);
 			}

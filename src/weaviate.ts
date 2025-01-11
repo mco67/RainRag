@@ -48,7 +48,8 @@ export class WeaviateService {
 
     public async retreiver(indexName: string): Promise<VectorStoreRetriever> {
         const store = await this.getStore(indexName)
-        return store.asRetriever(5);
+        const verbose = false;
+        return store.asRetriever(5 ,undefined, undefined, undefined, undefined, verbose);
     }
 
     public async close(): Promise<void> {

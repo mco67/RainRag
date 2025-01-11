@@ -18,7 +18,7 @@ console.log(completion);
 */
 import axios from 'axios';
 let data = JSON.stringify({
-  "model": "1.ibnzterrell/Meta-Llama-3.3-70B-Instruct-AWQ-INT4",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
   "messages": [
     {
       "role": "system",
@@ -34,7 +34,7 @@ let data = JSON.stringify({
 let config = {
   method: 'post',
   maxBodyLength: Infinity,
-  url: 'https://dev-llm.openrainbow.io/ollama/v1/chat/completions',
+  url: 'https://dev-llm.openrainbow.io/openai/chat/completions',
   headers: { 
     'Content-Type': 'application/json', 
     'Authorization': 'Bearer sk-c53df5dbc46a4a4dbef4124946ec78fe'

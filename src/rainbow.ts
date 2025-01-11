@@ -69,6 +69,7 @@ export class RainbowService {
 			this.sdk.events.on('rainbow_onready', () => { resolve(this); });
 			this.sdk.events.on('rainbow_onmessagereceived', (message: Message) => {
 				if (message.type === "chat") {
+					if (message.fromJid === '752ee81f40da498b89cc8d9b16c56e3b@demo-all-in-one-rd-dev-1.opentouch.cloud') return;
 					if (this.messageHandler) {
 						this.messageHandler(message.content, message.fromJid);
 					}

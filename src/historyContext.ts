@@ -5,7 +5,7 @@ import type { Message } from 'rainbow-node-sdk/lib/common/models/Message.js'
 
 export class HistoryContext {
 
-    public messages: AIMessage|HumanMessage[] = [];
+    public messages: AIMessage[]|HumanMessage[] = [];
     private maxSize = 10;
 
     public static create(historyMessages?: Message[]): HistoryContext { 

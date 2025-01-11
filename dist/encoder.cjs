@@ -71737,7 +71737,8 @@ var WeaviateService = class {
   }
   async retreiver(indexName) {
     const store = await this.getStore(indexName);
-    return store.asRetriever(5);
+    const verbose = false;
+    return store.asRetriever(5, void 0, void 0, void 0, void 0, verbose);
   }
   async close() {
     this.client?.close();
